@@ -1,0 +1,211 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-05-01",
+  "packs": [
+    {
+      "id": "bg_free",
+      "name": "Free Backgrounds",
+      "isPremium": false,
+      "iapProductId": null,
+      "r2Folder": null,
+      "githubFolder": "backgrounds/free",
+      "thumbnailFolder": "backgrounds/thumbnails",
+      "images": [
+        {
+          "id": "bg_hearts",
+          "version": "1.0.0",
+          "filename": "hearts.png",
+          "thumbnailFilename": "hearts_thumb.jpg",
+          "category": "patterns",
+          "fit": "tile",
+          "isPremium": false,
+          "sizeKB": 45
+        },
+        {
+          "id": "bg_dots",
+          "version": "1.0.0",
+          "filename": "dots.png",
+          "thumbnailFilename": "dots_thumb.jpg",
+          "category": "patterns",
+          "fit": "tile",
+          "isPremium": false,
+          "sizeKB": 32
+        },
+        {
+          "id": "bg_stripes",
+          "version": "1.0.0",
+          "filename": "stripes.png",
+          "thumbnailFilename": "stripes_thumb.jpg",
+          "category": "patterns",
+          "fit": "tile",
+          "isPremium": false,
+          "sizeKB": 28
+        },
+        {
+          "id": "bg_chevron",
+          "version": "1.0.0",
+          "filename": "chevron.png",
+          "thumbnailFilename": "chevron_thumb.jpg",
+          "category": "patterns",
+          "fit": "tile",
+          "isPremium": false,
+          "sizeKB": 38
+        },
+        {
+          "id": "bg_stars",
+          "version": "1.0.0",
+          "filename": "stars.png",
+          "thumbnailFilename": "stars_thumb.jpg",
+          "category": "patterns",
+          "fit": "tile",
+          "isPremium": false,
+          "sizeKB": 42
+        }
+      ]
+    },
+    {
+      "id": "bg_patterns_premium",
+      "name": "Pattern Pack",
+      "isPremium": true,
+      "iapProductId": "com.appwarehouse.collagecraft.bg_patterns",
+      "r2Folder": "backgrounds",
+      "githubFolder": null,
+      "thumbnailFolder": "backgrounds/thumbnails",
+      "images": [
+        {
+          "id": "bg_diamonds",
+          "version": "1.0.0",
+          "filename": "diamonds.png",
+          "thumbnailFilename": "diamonds_thumb.jpg",
+          "category": "patterns",
+          "fit": "tile",
+          "isPremium": true,
+          "sizeKB": 35
+        },
+        {
+          "id": "bg_herringbone",
+          "version": "1.0.0",
+          "filename": "herringbone.png",
+          "thumbnailFilename": "herringbone_thumb.jpg",
+          "category": "patterns",
+          "fit": "tile",
+          "isPremium": true,
+          "sizeKB": 40
+        },
+        {
+          "id": "bg_plaid",
+          "version": "1.0.0",
+          "filename": "plaid.png",
+          "thumbnailFilename": "plaid_thumb.jpg",
+          "category": "patterns",
+          "fit": "tile",
+          "isPremium": true,
+          "sizeKB": 48
+        },
+        {
+          "id": "bg_crosshatch",
+          "version": "1.0.0",
+          "filename": "crosshatch.png",
+          "thumbnailFilename": "crosshatch_thumb.jpg",
+          "category": "patterns",
+          "fit": "tile",
+          "isPremium": true,
+          "sizeKB": 33
+        },
+        {
+          "id": "bg_honeycomb",
+          "version": "1.0.0",
+          "filename": "honeycomb.png",
+          "thumbnailFilename": "honeycomb_thumb.jpg",
+          "category": "patterns",
+          "fit": "tile",
+          "isPremium": true,
+          "sizeKB": 36
+        },
+        {
+          "id": "bg_scales",
+          "version": "1.0.0",
+          "filename": "scales.png",
+          "thumbnailFilename": "scales_thumb.jpg",
+          "category": "patterns",
+          "fit": "tile",
+          "isPremium": true,
+          "sizeKB": 41
+        },
+        {
+          "id": "bg_moroccan",
+          "version": "1.0.0",
+          "filename": "moroccan.png",
+          "thumbnailFilename": "moroccan_thumb.jpg",
+          "category": "patterns",
+          "fit": "tile",
+          "isPremium": true,
+          "sizeKB": 52
+        },
+        {
+          "id": "bg_quatrefoil",
+          "version": "1.0.0",
+          "filename": "quatrefoil.png",
+          "thumbnailFilename": "quatrefoil_thumb.jpg",
+          "category": "patterns",
+          "fit": "tile",
+          "isPremium": true,
+          "sizeKB": 44
+        }
+      ]
+    },
+    {
+      "id": "bg_textures_premium",
+      "name": "Texture Pack",
+      "isPremium": true,
+      "iapProductId": "com.appwarehouse.collagecraft.bg_textures",
+      "r2Folder": "backgrounds",
+      "githubFolder": null,
+      "thumbnailFolder": "backgrounds/thumbnails",
+      "images": [
+        {"id": "bg_marble", "version": "1.0.0", "filename": "marble.jpg", "thumbnailFilename": "marble_thumb.jpg", "category": "textures", "fit": "cover", "isPremium": true, "sizeKB": 180},
+        {"id": "bg_wood", "version": "1.0.0", "filename": "wood.jpg", "thumbnailFilename": "wood_thumb.jpg", "category": "textures", "fit": "cover", "isPremium": true, "sizeKB": 165},
+        {"id": "bg_concrete", "version": "1.0.0", "filename": "concrete.jpg", "thumbnailFilename": "concrete_thumb.jpg", "category": "textures", "fit": "cover", "isPremium": true, "sizeKB": 145},
+        {"id": "bg_fabric", "version": "1.0.0", "filename": "fabric.jpg", "thumbnailFilename": "fabric_thumb.jpg", "category": "textures", "fit": "cover", "isPremium": true, "sizeKB": 155},
+        {"id": "bg_leather", "version": "1.0.0", "filename": "leather.jpg", "thumbnailFilename": "leather_thumb.jpg", "category": "textures", "fit": "cover", "isPremium": true, "sizeKB": 170},
+        {"id": "bg_brick", "version": "1.0.0", "filename": "brick.jpg", "thumbnailFilename": "brick_thumb.jpg", "category": "textures", "fit": "cover", "isPremium": true, "sizeKB": 190},
+        {"id": "bg_canvas", "version": "1.0.0", "filename": "canvas.jpg", "thumbnailFilename": "canvas_thumb.jpg", "category": "textures", "fit": "cover", "isPremium": true, "sizeKB": 140},
+        {"id": "bg_paper", "version": "1.0.0", "filename": "paper.jpg", "thumbnailFilename": "paper_thumb.jpg", "category": "textures", "fit": "cover", "isPremium": true, "sizeKB": 130}
+      ]
+    },
+    {
+      "id": "bg_nature_premium",
+      "name": "Nature Pack",
+      "isPremium": true,
+      "iapProductId": "com.appwarehouse.collagecraft.bg_nature",
+      "r2Folder": "backgrounds",
+      "githubFolder": null,
+      "thumbnailFolder": "backgrounds/thumbnails",
+      "images": [
+        {"id": "bg_leaves", "version": "1.0.0", "filename": "leaves.jpg", "thumbnailFilename": "leaves_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 175},
+        {"id": "bg_flowers", "version": "1.0.0", "filename": "flowers.jpg", "thumbnailFilename": "flowers_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 185},
+        {"id": "bg_sky", "version": "1.0.0", "filename": "sky.jpg", "thumbnailFilename": "sky_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 160},
+        {"id": "bg_ocean", "version": "1.0.0", "filename": "ocean.jpg", "thumbnailFilename": "ocean_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 178},
+        {"id": "bg_sand", "version": "1.0.0", "filename": "sand.jpg", "thumbnailFilename": "sand_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 150},
+        {"id": "bg_grass", "version": "1.0.0", "filename": "grass.jpg", "thumbnailFilename": "grass_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 168},
+        {"id": "bg_pebbles", "version": "1.0.0", "filename": "pebbles.jpg", "thumbnailFilename": "pebbles_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 182},
+        {"id": "bg_sunset", "version": "1.0.0", "filename": "sunset.jpg", "thumbnailFilename": "sunset_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 195}
+      ]
+    },
+    {
+      "id": "bg_abstract_premium",
+      "name": "Abstract Pack",
+      "isPremium": true,
+      "iapProductId": "com.appwarehouse.collagecraft.bg_abstract",
+      "r2Folder": "backgrounds",
+      "githubFolder": null,
+      "thumbnailFolder": "backgrounds/thumbnails",
+      "images": [
+        {"id": "bg_geometric", "version": "1.0.0", "filename": "geometric.png", "thumbnailFilename": "geometric_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 88},
+        {"id": "bg_watercolor", "version": "1.0.0", "filename": "watercolor.jpg", "thumbnailFilename": "watercolor_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 175},
+        {"id": "bg_bokeh", "version": "1.0.0", "filename": "bokeh.jpg", "thumbnailFilename": "bokeh_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 155},
+        {"id": "bg_splatter", "version": "1.0.0", "filename": "splatter.jpg", "thumbnailFilename": "splatter_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 145},
+        {"id": "bg_swirl", "version": "1.0.0", "filename": "swirl.jpg", "thumbnailFilename": "swirl_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 168},
+        {"id": "bg_fractal", "version": "1.0.0", "filename": "fractal.jpg", "thumbnailFilename": "fractal_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 192},
+        {"id": "bg_artdeco", "version": "1.0.0", "filename": "artdeco.png", "thumbnailFilename": "artdeco_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 95},
+        {"id": "bg_gradient_mesh", "version": "1.0.0", "filename": "gradient_mesh.jpg", "thumbnailFilename": "gradient_mesh_thumb.
