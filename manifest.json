@@ -1,0 +1,27 @@
+{
+  "manifestVersion": "1.0.0",
+  "lastUpdated": "2026-05-01",
+  "appMinVersion": "1.0.0",
+  "categories": {
+    "backgrounds": {
+      "manifestUrl": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/backgrounds/manifest.json",
+      "version": "1.0.0"
+    },
+    "borders": {
+      "manifestUrl": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/borders/manifest.json",
+      "version": "1.0.0"
+    },
+    "stickers": {
+      "manifestUrl": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/stickers/manifest.json",
+      "version": "1.0.0"
+    },
+    "emojis": {
+      "manifestUrl": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/emojis/manifest.json",
+      "version": "1.0.0"
+    },
+    "templates": {
+      "manifestUrl": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/manifest.json",
+      "version": "1.0.0"
+    }
+  }
+}
