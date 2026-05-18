@@ -208,4 +208,27 @@
         {"id": "bg_swirl", "version": "1.0.0", "filename": "swirl.jpg", "thumbnailFilename": "swirl_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 168},
         {"id": "bg_fractal", "version": "1.0.0", "filename": "fractal.jpg", "thumbnailFilename": "fractal_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 192},
         {"id": "bg_artdeco", "version": "1.0.0", "filename": "artdeco.png", "thumbnailFilename": "artdeco_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 95},
-        {"id": "bg_gradient_mesh", "version": "1.0.0", "filename": "gradient_mesh.jpg", "thumbnailFilename": "gradient_mesh_thumb.
+        {"id": "bg_gradient_mesh", "version": "1.0.0", "filename": "gradient_mesh.jpg", "thumbnailFilename": "gradient_mesh_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 140}
+      ]
+    },
+    {
+      "id": "bg_festive_premium",
+      "name": "Festive Pack",
+      "isPremium": true,
+      "iapProductId": "com.appwarehouse.collagecraft.bg_festive",
+      "r2Folder": "backgrounds",
+      "githubFolder": null,
+      "thumbnailFolder": "backgrounds/thumbnails",
+      "images": [
+        {"id": "bg_confetti", "version": "1.0.0", "filename": "confetti.png", "thumbnailFilename": "confetti_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 65},
+        {"id": "bg_balloons", "version": "1.0.0", "filename": "balloons.png", "thumbnailFilename": "balloons_thumb.jpg", "category": "festive", "fit": "cover", "isPremium": true, "sizeKB": 88},
+        {"id": "bg_sparkles", "version": "1.0.0", "filename": "sparkles.png", "thumbnailFilename": "sparkles_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 72},
+        {"id": "bg_snowflakes", "version": "1.0.0", "filename": "snowflakes.png", "thumbnailFilename": "snowflakes_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 58},
+        {"id": "bg_fireworks", "version": "1.0.0", "filename": "fireworks.png", "thumbnailFilename": "fireworks_thumb.jpg", "category": "festive", "fit": "cover", "isPremium": true, "sizeKB": 95},
+        {"id": "bg_ribbons", "version": "1.0.0", "filename": "ribbons.png", "thumbnailFilename": "ribbons_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 62},
+        {"id": "bg_hearts_festive", "version": "1.0.0", "filename": "hearts_festive.png", "thumbnailFilename": "hearts_festive_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 55},
+        {"id": "bg_party_stars", "version": "1.0.0", "filename": "party_stars.png", "thumbnailFilename": "party_stars_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 68}
+      ]
+    }
+  ]
+}
