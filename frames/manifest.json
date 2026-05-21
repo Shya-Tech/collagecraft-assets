@@ -1,5 +1,219 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-01",
-  "packs": []
+  "lastUpdated": "2026-05-21",
+  "packs": [
+    {
+      "id": "frame_free",
+      "name": "Free Frames",
+      "isPremium": false,
+      "iapProductId": null,
+      "r2Folder": null,
+      "githubFolder": "frames/free",
+      "thumbnailFolder": "frames/thumbnails",
+      "images": [
+        {
+          "id": "frame_simple_line",
+          "version": "1.0.0",
+          "filename": "simple_line.png",
+          "thumbnailFilename": "simple_line_thumb.jpg",
+          "category": "geometric",
+          "fit": "cover",
+          "isPremium": false,
+          "sizeKB": 25
+        },
+        {
+          "id": "frame_double_line",
+          "version": "1.0.0",
+          "filename": "double_line.png",
+          "thumbnailFilename": "double_line_thumb.jpg",
+          "category": "geometric",
+          "fit": "cover",
+          "isPremium": false,
+          "sizeKB": 28
+        },
+        {
+          "id": "frame_triple_line",
+          "version": "1.0.0",
+          "filename": "triple_line.png",
+          "thumbnailFilename": "triple_line_thumb.jpg",
+          "category": "geometric",
+          "fit": "cover",
+          "isPremium": false,
+          "sizeKB": 30
+        },
+        {
+          "id": "frame_rounded_corner",
+          "version": "1.0.0",
+          "filename": "rounded_corner.png",
+          "thumbnailFilename": "rounded_corner_thumb.jpg",
+          "category": "geometric",
+          "fit": "cover",
+          "isPremium": false,
+          "sizeKB": 27
+        },
+        {
+          "id": "frame_dashed",
+          "version": "1.0.0",
+          "filename": "dashed.png",
+          "thumbnailFilename": "dashed_thumb.jpg",
+          "category": "geometric",
+          "fit": "cover",
+          "isPremium": false,
+          "sizeKB": 32
+        },
+        {
+          "id": "frame_dots",
+          "version": "1.0.0",
+          "filename": "dots.png",
+          "thumbnailFilename": "dots_thumb.jpg",
+          "category": "decorative",
+          "fit": "cover",
+          "isPremium": false,
+          "sizeKB": 38
+        },
+        {
+          "id": "frame_zigzag",
+          "version": "1.0.0",
+          "filename": "zigzag.png",
+          "thumbnailFilename": "zigzag_thumb.jpg",
+          "category": "decorative",
+          "fit": "cover",
+          "isPremium": false,
+          "sizeKB": 42
+        },
+        {
+          "id": "frame_watercolor_wash",
+          "version": "1.0.0",
+          "filename": "watercolor_wash.png",
+          "thumbnailFilename": "watercolor_wash_thumb.jpg",
+          "category": "decorative",
+          "fit": "cover",
+          "isPremium": false,
+          "sizeKB": 85
+        }
+      ]
+    },
+    {
+      "id": "frame_premium_geometric",
+      "name": "Geometric Pro",
+      "isPremium": true,
+      "iapProductId": "com.appwarehouse.collagecraft.frame_geometric",
+      "r2Folder": "frames",
+      "githubFolder": null,
+      "thumbnailFolder": "frames/thumbnails",
+      "images": [
+        {
+          "id": "frame_shadow",
+          "version": "1.0.0",
+          "filename": "shadow.png",
+          "thumbnailFilename": "shadow_thumb.jpg",
+          "category": "geometric",
+          "fit": "cover",
+          "isPremium": true,
+          "sizeKB": 55
+        },
+        {
+          "id": "frame_gradient_border",
+          "version": "1.0.0",
+          "filename": "gradient_border.png",
+          "thumbnailFilename": "gradient_border_thumb.jpg",
+          "category": "geometric",
+          "fit": "cover",
+          "isPremium": true,
+          "sizeKB": 60
+        },
+        {
+          "id": "frame_neon_glow",
+          "version": "1.0.0",
+          "filename": "neon_glow.png",
+          "thumbnailFilename": "neon_glow_thumb.jpg",
+          "category": "geometric",
+          "fit": "cover",
+          "isPremium": true,
+          "sizeKB": 72
+        }
+      ]
+    },
+    {
+      "id": "frame_premium_decorative",
+      "name": "Decorative Pro",
+      "isPremium": true,
+      "iapProductId": "com.appwarehouse.collagecraft.frame_decorative",
+      "r2Folder": "frames",
+      "githubFolder": null,
+      "thumbnailFolder": "frames/thumbnails",
+      "images": [
+        {
+          "id": "frame_floral_vine",
+          "version": "1.0.0",
+          "filename": "floral_vine.png",
+          "thumbnailFilename": "floral_vine_thumb.jpg",
+          "category": "decorative",
+          "fit": "cover",
+          "isPremium": true,
+          "sizeKB": 120
+        },
+        {
+          "id": "frame_vintage_ornate",
+          "version": "1.0.0",
+          "filename": "vintage_ornate.png",
+          "thumbnailFilename": "vintage_ornate_thumb.jpg",
+          "category": "decorative",
+          "fit": "cover",
+          "isPremium": true,
+          "sizeKB": 135
+        },
+        {
+          "id": "frame_film_strip",
+          "version": "1.0.0",
+          "filename": "film_strip.png",
+          "thumbnailFilename": "film_strip_thumb.jpg",
+          "category": "decorative",
+          "fit": "cover",
+          "isPremium": true,
+          "sizeKB": 95
+        },
+        {
+          "id": "frame_polaroid",
+          "version": "1.0.0",
+          "filename": "polaroid.png",
+          "thumbnailFilename": "polaroid_thumb.jpg",
+          "category": "decorative",
+          "fit": "cover",
+          "isPremium": true,
+          "sizeKB": 48
+        },
+        {
+          "id": "frame_bokeh_lights",
+          "version": "1.0.0",
+          "filename": "bokeh_lights.png",
+          "thumbnailFilename": "bokeh_lights_thumb.jpg",
+          "category": "decorative",
+          "fit": "cover",
+          "isPremium": true,
+          "sizeKB": 150
+        },
+        {
+          "id": "frame_watercolor_splash",
+          "version": "1.0.0",
+          "filename": "watercolor_splash.png",
+          "thumbnailFilename": "watercolor_splash_thumb.jpg",
+          "category": "decorative",
+          "fit": "cover",
+          "isPremium": true,
+          "sizeKB": 165
+        },
+        {
+          "id": "frame_gold_foil",
+          "version": "1.0.0",
+          "filename": "gold_foil.png",
+          "thumbnailFilename": "gold_foil_thumb.jpg",
+          "category": "decorative",
+          "fit": "cover",
+          "isPremium": true,
+          "sizeKB": 140
+        }
+      ]
+    }
+  ]
 }
