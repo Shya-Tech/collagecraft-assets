@@ -90,6 +90,16 @@
           "fit": "cover",
           "isPremium": false,
           "sizeKB": 85
+        },
+        {
+          "id": "frame_heart",
+          "version": "1.0.0",
+          "filename": "heart.png",
+          "thumbnailFilename": "heart_thumb.jpg",
+          "category": "decorative",
+          "fit": "cover",
+          "isPremium": false,
+          "sizeKB": 75
         }
       ]
     },
