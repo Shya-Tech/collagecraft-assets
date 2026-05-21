@@ -7,7 +7,7 @@
       "manifestUrl": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/backgrounds/manifest.json",
       "version": "1.0.0"
     },
-    "borders": {
+    "frames": {
       "manifestUrl": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/frames/manifest.json",
       "version": "1.0.0"
     },
