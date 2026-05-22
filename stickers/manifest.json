@@ -1,5 +1,68 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-01",
-  "packs": []
+  "lastUpdated": "2026-05-22",
+  "packs": [
+    {
+      "id": "sticker_free",
+      "name": "Free Stickers",
+      "isPremium": false,
+      "iapProductId": null,
+      "r2Folder": null,
+      "githubFolder": "stickers/free",
+      "thumbnailFolder": "stickers/thumbnails",
+      "images": [
+        {"id": "sticker_birthday_cake", "version": "1.0.0", "filename": "birthday_cake.png", "thumbnailFilename": "birthday_cake_thumb.jpg", "category": "Birthday", "fit": "cover", "isPremium": false, "sizeKB": 45},
+        {"id": "sticker_party_popper", "version": "1.0.0", "filename": "party_popper.png", "thumbnailFilename": "party_popper_thumb.jpg", "category": "Party", "fit": "cover", "isPremium": false, "sizeKB": 42},
+        {"id": "sticker_balloon_bunch", "version": "1.0.0", "filename": "balloon_bunch.png", "thumbnailFilename": "balloon_bunch_thumb.jpg", "category": "Party", "fit": "cover", "isPremium": false, "sizeKB": 48},
+        {"id": "sticker_gift_box", "version": "1.0.0", "filename": "gift_box.png", "thumbnailFilename": "gift_box_thumb.jpg", "category": "Birthday", "fit": "cover", "isPremium": false, "sizeKB": 44},
+        {"id": "sticker_star_burst", "version": "1.0.0", "filename": "star_burst.png", "thumbnailFilename": "star_burst_thumb.jpg", "category": "Celebration", "fit": "cover", "isPremium": false, "sizeKB": 38},
+        {"id": "sticker_confetti_burst", "version": "1.0.0", "filename": "confetti_burst.png", "thumbnailFilename": "confetti_burst_thumb.jpg", "category": "Celebration", "fit": "cover", "isPremium": false, "sizeKB": 52},
+        {"id": "sticker_red_heart", "version": "1.0.0", "filename": "red_heart.png", "thumbnailFilename": "red_heart_thumb.jpg", "category": "Love", "fit": "cover", "isPremium": false, "sizeKB": 35},
+        {"id": "sticker_heart_eyes", "version": "1.0.0", "filename": "heart_eyes.png", "thumbnailFilename": "heart_eyes_thumb.jpg", "category": "Love", "fit": "cover", "isPremium": false, "sizeKB": 40},
+        {"id": "sticker_crown", "version": "1.0.0", "filename": "crown.png", "thumbnailFilename": "crown_thumb.jpg", "category": "Royalty", "fit": "cover", "isPremium": false, "sizeKB": 36},
+        {"id": "sticker_diamond_ring", "version": "1.0.0", "filename": "diamond_ring.png", "thumbnailFilename": "diamond_ring_thumb.jpg", "category": "Love", "fit": "cover", "isPremium": false, "sizeKB": 38},
+        {"id": "sticker_shooting_star", "version": "1.0.0", "filename": "shooting_star.png", "thumbnailFilename": "shooting_star_thumb.jpg", "category": "Celebration", "fit": "cover", "isPremium": false, "sizeKB": 34},
+        {"id": "sticker_rainbow", "version": "1.0.0", "filename": "rainbow.png", "thumbnailFilename": "rainbow_thumb.jpg", "category": "Nature", "fit": "cover", "isPremium": false, "sizeKB": 42},
+        {"id": "sticker_sun_shine", "version": "1.0.0", "filename": "sun_shine.png", "thumbnailFilename": "sun_shine_thumb.jpg", "category": "Nature", "fit": "cover", "isPremium": false, "sizeKB": 38},
+        {"id": "sticker_flower_bouquet", "version": "1.0.0", "filename": "flower_bouquet.png", "thumbnailFilename": "flower_bouquet_thumb.jpg", "category": "Nature", "fit": "cover", "isPremium": false, "sizeKB": 50},
+        {"id": "sticker_thumbs_up", "version": "1.0.0", "filename": "thumbs_up.png", "thumbnailFilename": "thumbs_up_thumb.jpg", "category": "Fun", "fit": "cover", "isPremium": false, "sizeKB": 36},
+        {"id": "sticker_trophy_cup", "version": "1.0.0", "filename": "trophy_cup.png", "thumbnailFilename": "trophy_cup_thumb.jpg", "category": "Achievement", "fit": "cover", "isPremium": false, "sizeKB": 44},
+        {"id": "sticker_camera_flash", "version": "1.0.0", "filename": "camera_flash.png", "thumbnailFilename": "camera_flash_thumb.jpg", "category": "Fun", "fit": "cover", "isPremium": false, "sizeKB": 40},
+        {"id": "sticker_music_notes", "version": "1.0.0", "filename": "music_notes.png", "thumbnailFilename": "music_notes_thumb.jpg", "category": "Fun", "fit": "cover", "isPremium": false, "sizeKB": 38},
+        {"id": "sticker_fire_flame", "version": "1.0.0", "filename": "fire_flame.png", "thumbnailFilename": "fire_flame_thumb.jpg", "category": "Fun", "fit": "cover", "isPremium": false, "sizeKB": 42},
+        {"id": "sticker_peace_sign", "version": "1.0.0", "filename": "peace_sign.png", "thumbnailFilename": "peace_sign_thumb.jpg", "category": "Fun", "fit": "cover", "isPremium": false, "sizeKB": 35}
+      ]
+    },
+    {
+      "id": "sticker_premium",
+      "name": "Premium Stickers",
+      "isPremium": true,
+      "iapProductId": "com.appwarehouse.collagecraft.sticker_premium",
+      "r2Folder": "stickers",
+      "githubFolder": null,
+      "thumbnailFolder": "stickers/thumbnails",
+      "images": [
+        {"id": "sticker_diwali_diya", "version": "1.0.0", "filename": "diwali_diya.png", "thumbnailFilename": "diwali_diya_thumb.jpg", "category": "Festival", "fit": "cover", "isPremium": true, "sizeKB": 48},
+        {"id": "sticker_christmas_tree", "version": "1.0.0", "filename": "christmas_tree.png", "thumbnailFilename": "christmas_tree_thumb.jpg", "category": "Festival", "fit": "cover", "isPremium": true, "sizeKB": 52},
+        {"id": "sticker_santa_hat", "version": "1.0.0", "filename": "santa_hat.png", "thumbnailFilename": "santa_hat_thumb.jpg", "category": "Festival", "fit": "cover", "isPremium": true, "sizeKB": 44},
+        {"id": "sticker_fireworks_burst", "version": "1.0.0", "filename": "fireworks_burst.png", "thumbnailFilename": "fireworks_burst_thumb.jpg", "category": "Festival", "fit": "cover", "isPremium": true, "sizeKB": 58},
+        {"id": "sticker_rangoli_pattern", "version": "1.0.0", "filename": "rangoli_pattern.png", "thumbnailFilename": "rangoli_pattern_thumb.jpg", "category": "Festival", "fit": "cover", "isPremium": true, "sizeKB": 55},
+        {"id": "sticker_lantern", "version": "1.0.0", "filename": "lantern.png", "thumbnailFilename": "lantern_thumb.jpg", "category": "Festival", "fit": "cover", "isPremium": true, "sizeKB": 46},
+        {"id": "sticker_wedding_rings", "version": "1.0.0", "filename": "wedding_rings.png", "thumbnailFilename": "wedding_rings_thumb.jpg", "category": "Wedding", "fit": "cover", "isPremium": true, "sizeKB": 40},
+        {"id": "sticker_bridal_flowers", "version": "1.0.0", "filename": "bridal_flowers.png", "thumbnailFilename": "bridal_flowers_thumb.jpg", "category": "Wedding", "fit": "cover", "isPremium": true, "sizeKB": 54},
+        {"id": "sticker_just_married", "version": "1.0.0", "filename": "just_married.png", "thumbnailFilename": "just_married_thumb.jpg", "category": "Wedding", "fit": "cover", "isPremium": true, "sizeKB": 48},
+        {"id": "sticker_baby_footprint", "version": "1.0.0", "filename": "baby_footprint.png", "thumbnailFilename": "baby_footprint_thumb.jpg", "category": "Baby", "fit": "cover", "isPremium": true, "sizeKB": 36},
+        {"id": "sticker_baby_shower", "version": "1.0.0", "filename": "baby_shower.png", "thumbnailFilename": "baby_shower_thumb.jpg", "category": "Baby", "fit": "cover", "isPremium": true, "sizeKB": 50},
+        {"id": "sticker_graduation_cap", "version": "1.0.0", "filename": "graduation_cap.png", "thumbnailFilename": "graduation_cap_thumb.jpg", "category": "Achievement", "fit": "cover", "isPremium": true, "sizeKB": 42},
+        {"id": "sticker_diploma_scroll", "version": "1.0.0", "filename": "diploma_scroll.png", "thumbnailFilename": "diploma_scroll_thumb.jpg", "category": "Achievement", "fit": "cover", "isPremium": true, "sizeKB": 44},
+        {"id": "sticker_new_year_fireworks", "version": "1.0.0", "filename": "new_year_fireworks.png", "thumbnailFilename": "new_year_fireworks_thumb.jpg", "category": "New Year", "fit": "cover", "isPremium": true, "sizeKB": 60},
+        {"id": "sticker_champagne_pop", "version": "1.0.0", "filename": "champagne_pop.png", "thumbnailFilename": "champagne_pop_thumb.jpg", "category": "New Year", "fit": "cover", "isPremium": true, "sizeKB": 46},
+        {"id": "sticker_travel_compass", "version": "1.0.0", "filename": "travel_compass.png", "thumbnailFilename": "travel_compass_thumb.jpg", "category": "Travel", "fit": "cover", "isPremium": true, "sizeKB": 40},
+        {"id": "sticker_passport_stamp", "version": "1.0.0", "filename": "passport_stamp.png", "thumbnailFilename": "passport_stamp_thumb.jpg", "category": "Travel", "fit": "cover", "isPremium": true, "sizeKB": 38},
+        {"id": "sticker_friendship_bracelet", "version": "1.0.0", "filename": "friendship_bracelet.png", "thumbnailFilename": "friendship_bracelet_thumb.jpg", "category": "Friendship", "fit": "cover", "isPremium": true, "sizeKB": 42},
+        {"id": "sticker_bff_heart", "version": "1.0.0", "filename": "bff_heart.png", "thumbnailFilename": "bff_heart_thumb.jpg", "category": "Friendship", "fit": "cover", "isPremium": true, "sizeKB": 38},
+        {"id": "sticker_gold_medal", "version": "1.0.0", "filename": "gold_medal.png", "thumbnailFilename": "gold_medal_thumb.jpg", "category": "Achievement", "fit": "cover", "isPremium": true, "sizeKB": 44}
+      ]
+    }
+  ]
 }
