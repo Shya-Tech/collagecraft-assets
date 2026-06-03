@@ -155,7 +155,7 @@
       "images": [
         {
           "id": "frame_floral_vine",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "filename": "floral_vine.png",
           "thumbnailFilename": "floral_vine_thumb.jpg",
           "category": "decorative",
@@ -165,7 +165,7 @@
         },
         {
           "id": "frame_vintage_ornate",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "filename": "vintage_ornate.png",
           "thumbnailFilename": "vintage_ornate_thumb.jpg",
           "category": "decorative",
@@ -205,7 +205,7 @@
         },
         {
           "id": "frame_watercolor_splash",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "filename": "watercolor_splash.png",
           "thumbnailFilename": "watercolor_splash_thumb.jpg",
           "category": "decorative",
@@ -215,7 +215,7 @@
         },
         {
           "id": "frame_gold_foil",
-          "version": "2.0.0",
+          "version": "1.0.1",
           "filename": "gold_foil.png",
           "thumbnailFilename": "gold_foil_thumb.jpg",
           "category": "decorative",
