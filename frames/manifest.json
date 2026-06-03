@@ -215,7 +215,7 @@
         },
         {
           "id": "frame_gold_foil",
-          "version": "1.0.0",
+          "version": "2.0.0",
           "filename": "gold_foil.png",
           "thumbnailFilename": "gold_foil_thumb.jpg",
           "category": "decorative",
