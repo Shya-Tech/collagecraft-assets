@@ -2,8 +2,7 @@
   "version": "1.0.0",
   "lastUpdated": "2026-05-01",
   "packs": [
-    {
-      "id": "bg_free",
+    {"id": "bg_free",
       "name": "Free Backgrounds",
       "isPremium": false,
       "iapProductId": null,
@@ -11,96 +10,15 @@
       "githubFolder": "backgrounds/free",
       "thumbnailFolder": "backgrounds/thumbnails",
       "images": [
-        {
-          "id": "bg_hearts",
-          "version": "1.0.0",
-          "filename": "hearts.png",
-          "thumbnailFilename": "hearts_thumb.jpg",
-          "category": "patterns",
-          "fit": "tile",
-          "isPremium": false,
-          "sizeKB": 45
-        },
-        {
-          "id": "bg_dots",
-          "version": "1.0.0",
-          "filename": "dots.png",
-          "thumbnailFilename": "dots_thumb.jpg",
-          "category": "patterns",
-          "fit": "tile",
-          "isPremium": false,
-          "sizeKB": 32
-        },
-        {
-          "id": "bg_stripes",
-          "version": "1.0.0",
-          "filename": "stripes.png",
-          "thumbnailFilename": "stripes_thumb.jpg",
-          "category": "patterns",
-          "fit": "tile",
-          "isPremium": false,
-          "sizeKB": 28
-        },
-        {
-          "id": "bg_chevron",
-          "version": "1.0.0",
-          "filename": "chevron.png",
-          "thumbnailFilename": "chevron_thumb.jpg",
-          "category": "patterns",
-          "fit": "tile",
-          "isPremium": false,
-          "sizeKB": 38
-        },
-        {
-          "id": "bg_stars",
-          "version": "1.0.0",
-          "filename": "stars.png",
-          "thumbnailFilename": "stars_thumb.jpg",
-          "category": "patterns",
-          "fit": "tile",
-          "isPremium": false,
-          "sizeKB": 42
-        },
-        {
-          "id": "bg_nf1",
-          "version": "1.0.0",
-          "filename": "nf1.jpg",
-          "thumbnailFilename": "nf1_thumb.jpg",
-          "category": "patterns",
-          "fit": "tile",
-          "isPremium": false,
-          "sizeKB": 42
-        },
-        {
-          "id": "bg_nf2",
-          "version": "1.0.0",
-          "filename": "nf2.jpg",
-          "thumbnailFilename": "nf2_thumb.jpg",
-          "category": "patterns",
-          "fit": "tile",
-          "isPremium": false,
-          "sizeKB": 42
-        },
-        {
-          "id": "bg_nf3",
-          "version": "1.0.0",
-          "filename": "nf3.jpg",
-          "thumbnailFilename": "nf3_thumb.jpg",
-          "category": "patterns",
-          "fit": "tile",
-          "isPremium": false,
-          "sizeKB": 42
-        },
-        {
-          "id": "bg_nf4",
-          "version": "1.0.0",
-          "filename": "nf4.jpg",
-          "thumbnailFilename": "nf4_thumb.jpg",
-          "category": "patterns",
-          "fit": "tile",
-          "isPremium": false,
-          "sizeKB": 42
-        }
+        {"id": "bg_hearts", "version": "1.0.0", "filename": "hearts.png", "thumbnailFilename": "hearts_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 45},
+        {"id": "bg_dots", "version": "1.0.0", "filename": "dots.png", "thumbnailFilename": "dots_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 32},
+        {"id": "bg_stripes", "version": "1.0.0", "filename": "stripes.png", "thumbnailFilename": "stripes_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 28},
+        {"id": "bg_chevron", "version": "1.0.0", "filename": "chevron.png", "thumbnailFilename": "chevron_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 38},
+        {"id": "bg_stars", "version": "1.0.0", "filename": "stars.png", "thumbnailFilename": "stars_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 42},
+        {"id": "bg_nf1", "version": "1.0.0", "filename": "nf1.jpg", "thumbnailFilename": "nf1_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 42},
+        {"id": "bg_nf2", "version": "1.0.0", "filename": "nf2.jpg", "thumbnailFilename": "nf2_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 42},
+        {"id": "bg_nf3", "version": "1.0.0", "filename": "nf3.jpg", "thumbnailFilename": "nf3_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 42},
+        {"id": "bg_nf4", "version": "1.0.0", "filename": "nf4.jpg", "thumbnailFilename": "nf4_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 42}
       ]
     },
     {
@@ -112,86 +30,14 @@
       "githubFolder": null,
       "thumbnailFolder": "backgrounds/thumbnails",
       "images": [
-        {
-          "id": "bg_diamonds",
-          "version": "1.0.0",
-          "filename": "diamonds.png",
-          "thumbnailFilename": "diamonds_thumb.jpg",
-          "category": "patterns",
-          "fit": "tile",
-          "isPremium": true,
-          "sizeKB": 35
-        },
-        {
-          "id": "bg_herringbone",
-          "version": "1.0.0",
-          "filename": "herringbone.png",
-          "thumbnailFilename": "herringbone_thumb.jpg",
-          "category": "patterns",
-          "fit": "tile",
-          "isPremium": true,
-          "sizeKB": 40
-        },
-        {
-          "id": "bg_plaid",
-          "version": "1.0.0",
-          "filename": "plaid.png",
-          "thumbnailFilename": "plaid_thumb.jpg",
-          "category": "patterns",
-          "fit": "tile",
-          "isPremium": true,
-          "sizeKB": 48
-        },
-        {
-          "id": "bg_crosshatch",
-          "version": "1.0.0",
-          "filename": "crosshatch.png",
-          "thumbnailFilename": "crosshatch_thumb.jpg",
-          "category": "patterns",
-          "fit": "tile",
-          "isPremium": true,
-          "sizeKB": 33
-        },
-        {
-          "id": "bg_honeycomb",
-          "version": "1.0.0",
-          "filename": "honeycomb.png",
-          "thumbnailFilename": "honeycomb_thumb.jpg",
-          "category": "patterns",
-          "fit": "tile",
-          "isPremium": true,
-          "sizeKB": 36
-        },
-        {
-          "id": "bg_scales",
-          "version": "1.0.0",
-          "filename": "scales.png",
-          "thumbnailFilename": "scales_thumb.jpg",
-          "category": "patterns",
-          "fit": "tile",
-          "isPremium": true,
-          "sizeKB": 41
-        },
-        {
-          "id": "bg_moroccan",
-          "version": "1.0.0",
-          "filename": "moroccan.png",
-          "thumbnailFilename": "moroccan_thumb.jpg",
-          "category": "patterns",
-          "fit": "tile",
-          "isPremium": true,
-          "sizeKB": 52
-        },
-        {
-          "id": "bg_quatrefoil",
-          "version": "1.0.0",
-          "filename": "quatrefoil.png",
-          "thumbnailFilename": "quatrefoil_thumb.jpg",
-          "category": "patterns",
-          "fit": "tile",
-          "isPremium": true,
-          "sizeKB": 44
-        }
+        {"id": "bg_diamonds", "version": "1.0.0", "filename": "diamonds.png", "thumbnailFilename": "diamonds_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true, "sizeKB": 35},
+        {"id": "bg_herringbone", "version": "1.0.0", "filename": "herringbone.png", "thumbnailFilename": "herringbone_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true, "sizeKB": 40},
+        {"id": "bg_plaid", "version": "1.0.0", "filename": "plaid.png", "thumbnailFilename": "plaid_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true, "sizeKB": 48},
+        {"id": "bg_crosshatch", "version": "1.0.0", "filename": "crosshatch.png", "thumbnailFilename": "crosshatch_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true, "sizeKB": 33},
+        {"id": "bg_honeycomb", "version": "1.0.0", "filename": "honeycomb.png", "thumbnailFilename": "honeycomb_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true, "sizeKB": 36},
+        {"id": "bg_scales", "version": "1.0.0", "filename": "scales.png", "thumbnailFilename": "scales_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true, "sizeKB": 41},
+        {"id": "bg_moroccan", "version": "1.0.0", "filename": "moroccan.png", "thumbnailFilename": "moroccan_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true, "sizeKB": 52},
+        {"id": "bg_quatrefoil", "version": "1.0.0", "filename": "quatrefoil.png", "thumbnailFilename": "quatrefoil_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true, "sizeKB": 44}
       ]
     },
     {
