@@ -60,6 +60,46 @@
           "fit": "tile",
           "isPremium": false,
           "sizeKB": 42
+        },
+        {
+          "id": "bg_nf1",
+          "version": "1.0.0",
+          "filename": "nf1.jpg",
+          "thumbnailFilename": "nf1_thumb.jpg",
+          "category": "patterns",
+          "fit": "tile",
+          "isPremium": false,
+          "sizeKB": 42
+        },
+        {
+          "id": "bg_nf2",
+          "version": "1.0.0",
+          "filename": "nf2.jpg",
+          "thumbnailFilename": "nf2_thumb.jpg",
+          "category": "patterns",
+          "fit": "tile",
+          "isPremium": false,
+          "sizeKB": 42
+        },
+        {
+          "id": "bg_nf3",
+          "version": "1.0.0",
+          "filename": "nf3.jpg",
+          "thumbnailFilename": "nf3_thumb.jpg",
+          "category": "patterns",
+          "fit": "tile",
+          "isPremium": false,
+          "sizeKB": 42
+        },
+        {
+          "id": "bg_nf4",
+          "version": "1.0.0",
+          "filename": "nf4.jpg",
+          "thumbnailFilename": "nf4_thumb.jpg",
+          "category": "patterns",
+          "fit": "tile",
+          "isPremium": false,
+          "sizeKB": 42
         }
       ]
     },
@@ -182,14 +222,16 @@
       "githubFolder": null,
       "thumbnailFolder": "backgrounds/thumbnails",
       "images": [
-        {"id": "bg_leaves", "version": "1.0.0", "filename": "leaves.jpg", "thumbnailFilename": "leaves_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 175},
-        {"id": "bg_flowers", "version": "1.0.0", "filename": "flowers.jpg", "thumbnailFilename": "flowers_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 185},
-        {"id": "bg_sky", "version": "1.0.0", "filename": "sky.jpg", "thumbnailFilename": "sky_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 160},
-        {"id": "bg_ocean", "version": "1.0.0", "filename": "ocean.jpg", "thumbnailFilename": "ocean_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 178},
-        {"id": "bg_sand", "version": "1.0.0", "filename": "sand.jpg", "thumbnailFilename": "sand_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 150},
-        {"id": "bg_grass", "version": "1.0.0", "filename": "grass.jpg", "thumbnailFilename": "grass_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 168},
-        {"id": "bg_pebbles", "version": "1.0.0", "filename": "pebbles.jpg", "thumbnailFilename": "pebbles_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 182},
-        {"id": "bg_sunset", "version": "1.0.0", "filename": "sunset.jpg", "thumbnailFilename": "sunset_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 195}
+        {"id": "bg_n1", "version": "1.0.0", "filename": "n1.jpg", "thumbnailFilename": "n1_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 175},
+        {"id": "bg_n2", "version": "1.0.0", "filename": "n2.jpg", "thumbnailFilename": "n2_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 185},
+        {"id": "bg_n3", "version": "1.0.0", "filename": "n3.jpg", "thumbnailFilename": "n3_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 160},
+        {"id": "bg_n4", "version": "1.0.0", "filename": "n4.jpg", "thumbnailFilename": "n4_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 178},
+        {"id": "bg_n5", "version": "1.0.0", "filename": "n5.jpg", "thumbnailFilename": "n5_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 150},
+        {"id": "bg_n6", "version": "1.0.0", "filename": "n6.jpg", "thumbnailFilename": "n6_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 168},
+        {"id": "bg_n7", "version": "1.0.0", "filename": "n7.jpg", "thumbnailFilename": "n7_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 182},
+        {"id": "bg_n8", "version": "1.0.0", "filename": "n8.jpg", "thumbnailFilename": "n8_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 168},
+        {"id": "bg_n9", "version": "1.0.0", "filename": "n9.jpg", "thumbnailFilename": "n9_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 168},
+        {"id": "bg_n10", "version": "1.0.0", "filename": "n10.jpg", "thumbnailFilename": "n10_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": true, "sizeKB": 195}
       ]
     },
     {
