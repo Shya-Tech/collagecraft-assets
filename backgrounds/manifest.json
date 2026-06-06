@@ -244,12 +244,12 @@
       "thumbnailFolder": "backgrounds/thumbnails",
       "images": [
         {"id": "bg_geometric", "version": "1.0.0", "filename": "geometric.png", "thumbnailFilename": "geometric_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 88},
-        {"id": "bg_watercolor", "version": "1.0.0", "filename": "watercolor.jpg", "thumbnailFilename": "watercolor_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 175},
+        {"id": "bg_artdeco", "version": "1.0.0", "filename": "artdeco.png", "thumbnailFilename": "artdeco_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 95},
+        {"id": "bg_a1", "version": "1.0.0", "filename": "a1.jpg", "thumbnailFilename": "a1_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 175},
         {"id": "bg_bokeh", "version": "1.0.0", "filename": "bokeh.jpg", "thumbnailFilename": "bokeh_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 155},
         {"id": "bg_splatter", "version": "1.0.0", "filename": "splatter.jpg", "thumbnailFilename": "splatter_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 145},
         {"id": "bg_swirl", "version": "1.0.0", "filename": "swirl.jpg", "thumbnailFilename": "swirl_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 168},
         {"id": "bg_fractal", "version": "1.0.0", "filename": "fractal.jpg", "thumbnailFilename": "fractal_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 192},
-        {"id": "bg_artdeco", "version": "1.0.0", "filename": "artdeco.png", "thumbnailFilename": "artdeco_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 95},
         {"id": "bg_gradient_mesh", "version": "1.0.0", "filename": "gradient_mesh.jpg", "thumbnailFilename": "gradient_mesh_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true, "sizeKB": 140}
       ]
     },
