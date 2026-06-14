@@ -23,7 +23,7 @@
     },
     {
       "id": "bg_patterns_premium",
-      "name": "Pattern Pack",
+      "name": "Pattern",
       "isPremium": true,
       "iapProductId": "com.appwarehouse.collagecraft.bg_patterns",
       "r2Folder": "backgrounds",
@@ -42,7 +42,7 @@
     },
     {
       "id": "bg_textures_premium",
-      "name": "Texture Pack",
+      "name": "Texture",
       "isPremium": true,
       "iapProductId": "com.appwarehouse.collagecraft.bg_textures",
       "r2Folder": "backgrounds",
@@ -61,7 +61,7 @@
     },
     {
       "id": "bg_nature_premium",
-      "name": "Nature Pack",
+      "name": "Nature",
       "isPremium": true,
       "iapProductId": "com.appwarehouse.collagecraft.bg_nature",
       "r2Folder": "backgrounds",
@@ -82,7 +82,7 @@
     },
     {
       "id": "bg_abstract_premium",
-      "name": "Abstract Pack",
+      "name": "Abstract",
       "isPremium": true,
       "iapProductId": "com.appwarehouse.collagecraft.bg_abstract",
       "r2Folder": "backgrounds",
@@ -101,7 +101,7 @@
     },
     {
       "id": "bg_festive_premium",
-      "name": "Festive Pack",
+      "name": "Festive",
       "isPremium": true,
       "iapProductId": "com.appwarehouse.collagecraft.bg_festive",
       "r2Folder": "backgrounds",
