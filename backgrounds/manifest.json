@@ -10,15 +10,16 @@
       "githubFolder": "backgrounds/free",
       "thumbnailFolder": "backgrounds/thumbnails",
       "images": [
-        {"id": "bg_hearts", "version": "1.0.0", "filename": "hearts.png", "thumbnailFilename": "hearts_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 45},
-        {"id": "bg_dots", "version": "1.0.0", "filename": "dots.png", "thumbnailFilename": "dots_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 32},
-        {"id": "bg_stripes", "version": "1.0.0", "filename": "stripes.png", "thumbnailFilename": "stripes_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 28},
-        {"id": "bg_chevron", "version": "1.0.0", "filename": "chevron.png", "thumbnailFilename": "chevron_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 38},
-        {"id": "bg_stars", "version": "1.0.0", "filename": "stars.png", "thumbnailFilename": "stars_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 42},
-        {"id": "bg_nf1", "version": "1.0.0", "filename": "nf1.jpg", "thumbnailFilename": "nf1_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 42},
-        {"id": "bg_nf2", "version": "1.0.0", "filename": "nf2.jpg", "thumbnailFilename": "nf2_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 42},
-        {"id": "bg_nf3", "version": "1.0.0", "filename": "nf3.jpg", "thumbnailFilename": "nf3_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 42},
-        {"id": "bg_nf4", "version": "1.0.0", "filename": "nf4.jpg", "thumbnailFilename": "nf4_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 42}
+        {"id": "bg_hearts", "version": "1.0.0", "filename": "hearts.png", "thumbnailFilename": "hearts_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 38},
+        {"id": "bg_dots", "version": "1.0.0", "filename": "dots.png", "thumbnailFilename": "dots_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 22},
+        {"id": "bg_stripes", "version": "1.0.0", "filename": "stripes.png", "thumbnailFilename": "stripes_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 44},
+        {"id": "bg_chevron", "version": "1.0.0", "filename": "chevron.png", "thumbnailFilename": "chevron_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 56},
+        {"id": "bg_stars", "version": "1.0.0", "filename": "stars.png", "thumbnailFilename": "stars_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 43},
+        {"id": "bg_nf1", "version": "1.0.0", "filename": "nf1.jpg", "thumbnailFilename": "nf1_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 54},
+        {"id": "bg_nf2", "version": "1.0.0", "filename": "nf2.jpg", "thumbnailFilename": "nf2_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 150},
+        {"id": "bg_nf3", "version": "1.0.0", "filename": "nf3.jpg", "thumbnailFilename": "nf3_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 51},
+        {"id": "bg_nf4", "version": "1.0.0", "filename": "nf4.jpg", "thumbnailFilename": "nf4_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 185},
+        {"id": "bg_ff1", "version": "1.0.0", "filename": "ff1.jpg", "thumbnailFilename": "ff1_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false, "sizeKB": 197}
       ]
     },
     {
