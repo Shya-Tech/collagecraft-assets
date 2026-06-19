@@ -109,14 +109,16 @@
       "githubFolder": null,
       "thumbnailFolder": "backgrounds/thumbnails",
       "images": [
-        {"id": "bg_confetti", "version": "1.0.0", "filename": "confetti.png", "thumbnailFilename": "confetti_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 65},
-        {"id": "bg_balloons", "version": "1.0.0", "filename": "balloons.png", "thumbnailFilename": "balloons_thumb.jpg", "category": "festive", "fit": "cover", "isPremium": true, "sizeKB": 88},
-        {"id": "bg_sparkles", "version": "1.0.0", "filename": "sparkles.png", "thumbnailFilename": "sparkles_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 72},
-        {"id": "bg_snowflakes", "version": "1.0.0", "filename": "snowflakes.png", "thumbnailFilename": "snowflakes_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 58},
-        {"id": "bg_fireworks", "version": "1.0.0", "filename": "fireworks.png", "thumbnailFilename": "fireworks_thumb.jpg", "category": "festive", "fit": "cover", "isPremium": true, "sizeKB": 95},
-        {"id": "bg_ribbons", "version": "1.0.0", "filename": "ribbons.png", "thumbnailFilename": "ribbons_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 62},
-        {"id": "bg_hearts_festive", "version": "1.0.0", "filename": "hearts_festive.png", "thumbnailFilename": "hearts_festive_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 55},
-        {"id": "bg_party_stars", "version": "1.0.0", "filename": "party_stars.png", "thumbnailFilename": "party_stars_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 68}
+        {"id": "bg_confetti", "version": "1.0.0", "filename": "confetti.png", "thumbnailFilename": "confetti_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 42},
+        {"id": "bg_balloons", "version": "1.0.0", "filename": "balloons.png", "thumbnailFilename": "balloons_thumb.jpg", "category": "festive", "fit": "cover", "isPremium": true, "sizeKB": 41},
+        {"id": "bg_sparkles", "version": "1.0.0", "filename": "sparkles.png", "thumbnailFilename": "sparkles_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 57},
+        {"id": "bg_snowflakes", "version": "1.0.0", "filename": "snowflakes.png", "thumbnailFilename": "snowflakes_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 53},
+        {"id": "bg_fireworks", "version": "1.0.0", "filename": "fireworks.png", "thumbnailFilename": "fireworks_thumb.jpg", "category": "festive", "fit": "cover", "isPremium": true, "sizeKB": 48},
+        {"id": "bg_ribbons", "version": "1.0.0", "filename": "ribbons.png", "thumbnailFilename": "ribbons_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 22},
+        {"id": "bg_hearts_festive", "version": "1.0.0", "filename": "hearts_festive.png", "thumbnailFilename": "hearts_festive_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 45},
+        {"id": "bg_party_stars", "version": "1.0.0", "filename": "party_stars.png", "thumbnailFilename": "party_stars_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 51},
+        {"id": "bg_f1", "version": "1.0.0", "filename": "f1.jpg", "thumbnailFilename": "f1_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 155},
+        {"id": "bg_f2", "version": "1.0.0", "filename": "f2.jpg", "thumbnailFilename": "f2_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true, "sizeKB": 225}
       ]
     }
   ]
