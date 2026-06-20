@@ -30,15 +30,15 @@
       "thumbnailFolder": "backgrounds/thumbnails/pattern",
       "images": [
         {"id": "bg_p1", "version": "1.0.0", "filename": "p1.jpg", "thumbnailFilename": "p1_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true},
-        {"id": "bg_p2", "version": "1.0.0", "filename": "p2.jpg", "thumbnailFilename": "p2_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true},
-        {"id": "bg_p3", "version": "1.0.0", "filename": "p3.jpg", "thumbnailFilename": "p3_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true},
-        {"id": "bg_p4", "version": "1.0.0", "filename": "p4.jpg", "thumbnailFilename": "p4_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true},
-        {"id": "bg_p5", "version": "1.0.0", "filename": "p5.jpg", "thumbnailFilename": "p5_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true},
-        {"id": "bg_p6", "version": "1.0.0", "filename": "p6.jpg", "thumbnailFilename": "p6_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true},
-        {"id": "bg_p7", "version": "1.0.0", "filename": "p7.jpg", "thumbnailFilename": "p7_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true},
+        {"id": "bg_p2", "version": "1.0.0", "filename": "p2.png", "thumbnailFilename": "p2_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true},
+        {"id": "bg_p3", "version": "1.0.0", "filename": "p3.png", "thumbnailFilename": "p3_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true},
+        {"id": "bg_p4", "version": "1.0.0", "filename": "p4.png", "thumbnailFilename": "p4_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true},
+        {"id": "bg_p5", "version": "1.0.0", "filename": "p5.png", "thumbnailFilename": "p5_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true},
+        {"id": "bg_p6", "version": "1.0.0", "filename": "p6.png", "thumbnailFilename": "p6_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true},
+        {"id": "bg_p7", "version": "1.0.0", "filename": "p7.png", "thumbnailFilename": "p7_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true},
         {"id": "bg_p8", "version": "1.0.0", "filename": "p8.jpg", "thumbnailFilename": "p8_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true},
-        {"id": "bg_p9", "version": "1.0.0", "filename": "p9.jpg", "thumbnailFilename": "p9_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true},
-        {"id": "bg_p10", "version": "1.0.0", "filename": "p10.jpg", "thumbnailFilename": "p10_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true}
+        {"id": "bg_p9", "version": "1.0.0", "filename": "p9.png", "thumbnailFilename": "p9_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true},
+        {"id": "bg_p10", "version": "1.0.0", "filename": "p10.png", "thumbnailFilename": "p10_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": true}
       ]
     },
     {
@@ -109,16 +109,16 @@
       "githubFolder": null,
       "thumbnailFolder": "backgrounds/thumbnails/festive",
       "images": [
-        {"id": "bg_f1", "version": "1.0.0", "filename": "f1.jpg", "thumbnailFilename": "f1_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true},
-        {"id": "bg_f2", "version": "1.0.0", "filename": "f2.jpg", "thumbnailFilename": "f2_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true},
-        {"id": "bg_f3", "version": "1.0.0", "filename": "f3.jpg", "thumbnailFilename": "f3_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true},
-        {"id": "bg_f4", "version": "1.0.0", "filename": "f4.jpg", "thumbnailFilename": "f4_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true},
+        {"id": "bg_f1", "version": "1.0.0", "filename": "f1.png", "thumbnailFilename": "f1_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true},
+        {"id": "bg_f2", "version": "1.0.0", "filename": "f2.png", "thumbnailFilename": "f2_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true},
+        {"id": "bg_f3", "version": "1.0.0", "filename": "f3.png", "thumbnailFilename": "f3_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true},
+        {"id": "bg_f4", "version": "1.0.0", "filename": "f4.png", "thumbnailFilename": "f4_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true},
         {"id": "bg_f5", "version": "1.0.0", "filename": "f5.jpg", "thumbnailFilename": "f5_thumb.jpg", "category": "festive", "fit": "cover", "isPremium": true},
-        {"id": "bg_f6", "version": "1.0.0", "filename": "f6.jpg", "thumbnailFilename": "f6_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true},
-        {"id": "bg_f7", "version": "1.0.0", "filename": "f7.jpg", "thumbnailFilename": "f7_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true},
+        {"id": "bg_f6", "version": "1.0.0", "filename": "f6.png", "thumbnailFilename": "f6_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true},
+        {"id": "bg_f7", "version": "1.0.0", "filename": "f7.png", "thumbnailFilename": "f7_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true},
         {"id": "bg_f8", "version": "1.0.0", "filename": "f8.jpg", "thumbnailFilename": "f8_thumb.jpg", "category": "festive", "fit": "cover", "isPremium": true},
-        {"id": "bg_f9", "version": "1.0.0", "filename": "f9.jpg", "thumbnailFilename": "f9_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true},
-        {"id": "bg_f10", "version": "1.0.0", "filename": "f10.jpg", "thumbnailFilename": "f10_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true}
+        {"id": "bg_f9", "version": "1.0.0", "filename": "f9.png", "thumbnailFilename": "f9_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true},
+        {"id": "bg_f10", "version": "1.0.0", "filename": "f10.png", "thumbnailFilename": "f10_thumb.jpg", "category": "festive", "fit": "tile", "isPremium": true}
       ]
     }
   ]
