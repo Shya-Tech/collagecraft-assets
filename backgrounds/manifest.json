@@ -9,16 +9,16 @@
       "githubFolder": "backgrounds/free",
       "thumbnailFolder": "backgrounds/thumbnails/free",
       "images": [
-        {"id": "bg_fr1", "version": "1.0.0", "filename": "fr1.jpg", "thumbnailFilename": "fr1_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false},
-        {"id": "bg_fr2", "version": "1.0.0", "filename": "fr2.jpg", "thumbnailFilename": "fr2_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false},
+        {"id": "bg_fr1", "version": "1.0.0", "filename": "fr1.png", "thumbnailFilename": "fr1_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false},
+        {"id": "bg_fr2", "version": "1.0.0", "filename": "fr2.png", "thumbnailFilename": "fr2_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false},
         {"id": "bg_fr3", "version": "1.0.0", "filename": "fr3.jpg", "thumbnailFilename": "fr3_thumb.jpg", "category": "festive", "fit": "cover", "isPremium": false},
         {"id": "bg_fr4", "version": "1.0.0", "filename": "fr4.jpg", "thumbnailFilename": "fr4_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": false},
-        {"id": "bg_fr5", "version": "1.0.0", "filename": "fr5.jpg", "thumbnailFilename": "fr5_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false},
+        {"id": "bg_fr5", "version": "1.0.0", "filename": "fr5.png", "thumbnailFilename": "fr5_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false},
         {"id": "bg_fr6", "version": "1.0.0", "filename": "fr6.jpg", "thumbnailFilename": "fr6_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": false},
-        {"id": "bg_fr7", "version": "1.0.0", "filename": "fr7.jpg", "thumbnailFilename": "fr7_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false},
+        {"id": "bg_fr7", "version": "1.0.0", "filename": "fr7.png", "thumbnailFilename": "fr7_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false},
         {"id": "bg_fr8", "version": "1.0.0", "filename": "fr8.jpg", "thumbnailFilename": "fr8_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": false},
         {"id": "bg_fr9", "version": "1.0.0", "filename": "fr9.jpg", "thumbnailFilename": "fr9_thumb.jpg", "category": "nature", "fit": "cover", "isPremium": false},
-        {"id": "bg_fr10", "version": "1.0.0", "filename": "fr10.jpg", "thumbnailFilename": "fr10_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false}
+        {"id": "bg_fr10", "version": "1.0.0", "filename": "fr10.png", "thumbnailFilename": "fr10_thumb.jpg", "category": "patterns", "fit": "tile", "isPremium": false}
       ]
     },
     {
@@ -97,8 +97,8 @@
         {"id": "bg_a6", "version": "1.0.0", "filename": "a6.jpg", "thumbnailFilename": "a6_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true},
         {"id": "bg_a7", "version": "1.0.0", "filename": "a7.jpg", "thumbnailFilename": "a7_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true},
         {"id": "bg_a8", "version": "1.0.0", "filename": "a8.jpg", "thumbnailFilename": "a8_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true},
-        {"id": "bg_a9", "version": "1.0.0", "filename": "a9.jpg", "thumbnailFilename": "a9_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true},
-        {"id": "bg_a10", "version": "1.0.0", "filename": "a10.jpg", "thumbnailFilename": "a10_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true}
+        {"id": "bg_a9", "version": "1.0.0", "filename": "a9.png", "thumbnailFilename": "a9_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true},
+        {"id": "bg_a10", "version": "1.0.0", "filename": "a10.png", "thumbnailFilename": "a10_thumb.jpg", "category": "abstract", "fit": "cover", "isPremium": true}
       ]
     },
     {
