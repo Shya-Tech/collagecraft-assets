@@ -37,7 +37,6 @@
       "id": "sticker_premium",
       "name": "Premium Stickers",
       "isPremium": true,
-      "iapProductId": "com.appwarehouse.collagecraft.sticker_premium",
       "r2Folder": "stickers",
       "githubFolder": null,
       "thumbnailFolder": "stickers/thumbnails",
