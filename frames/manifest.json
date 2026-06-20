@@ -1,226 +1,54 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-05-21",
+  "lastUpdated": "2026-06-20",
   "packs": [
     {
       "id": "frame_free",
       "name": "Free Frames",
       "isPremium": false,
-      "iapProductId": null,
       "r2Folder": null,
       "githubFolder": "frames/free",
-      "thumbnailFolder": "frames/thumbnails",
+      "thumbnailFolder": "frames/thumbnails/free",
       "images": [
-        {
-          "id": "frame_simple_line",
-          "version": "1.0.0",
-          "filename": "simple_line.png",
-          "thumbnailFilename": "simple_line_thumb.jpg",
-          "category": "geometric",
-          "fit": "cover",
-          "isPremium": false,
-          "sizeKB": 25
-        },
-        {
-          "id": "frame_double_line",
-          "version": "1.0.0",
-          "filename": "double_line.png",
-          "thumbnailFilename": "double_line_thumb.jpg",
-          "category": "geometric",
-          "fit": "cover",
-          "isPremium": false,
-          "sizeKB": 28
-        },
-        {
-          "id": "frame_triple_line",
-          "version": "1.0.0",
-          "filename": "triple_line.png",
-          "thumbnailFilename": "triple_line_thumb.jpg",
-          "category": "geometric",
-          "fit": "cover",
-          "isPremium": false,
-          "sizeKB": 30
-        },
-        {
-          "id": "frame_rounded_corner",
-          "version": "1.0.0",
-          "filename": "rounded_corner.png",
-          "thumbnailFilename": "rounded_corner_thumb.jpg",
-          "category": "geometric",
-          "fit": "cover",
-          "isPremium": false,
-          "sizeKB": 27
-        },
-        {
-          "id": "frame_dashed",
-          "version": "1.0.0",
-          "filename": "dashed.png",
-          "thumbnailFilename": "dashed_thumb.jpg",
-          "category": "geometric",
-          "fit": "cover",
-          "isPremium": false,
-          "sizeKB": 32
-        },
-        {
-          "id": "frame_dots",
-          "version": "1.0.0",
-          "filename": "dots.png",
-          "thumbnailFilename": "dots_thumb.jpg",
-          "category": "decorative",
-          "fit": "cover",
-          "isPremium": false,
-          "sizeKB": 38
-        },
-        {
-          "id": "frame_zigzag",
-          "version": "1.0.0",
-          "filename": "zigzag.png",
-          "thumbnailFilename": "zigzag_thumb.jpg",
-          "category": "decorative",
-          "fit": "cover",
-          "isPremium": false,
-          "sizeKB": 42
-        },
-        {
-          "id": "frame_watercolor_wash",
-          "version": "1.0.0",
-          "filename": "watercolor_wash.png",
-          "thumbnailFilename": "watercolor_wash_thumb.jpg",
-          "category": "decorative",
-          "fit": "cover",
-          "isPremium": false,
-          "sizeKB": 85
-        },
-        {
-          "id": "frame_heart",
-          "version": "1.0.0",
-          "filename": "heart.png",
-          "thumbnailFilename": "heart_thumb.jpg",
-          "category": "decorative",
-          "fit": "cover",
-          "isPremium": false,
-          "sizeKB": 75
-        }
+        {"id": "f_f1", "version": "1.0.0", "filename": "f1.png", "thumbnailFilename": "f1_thumb.jpg", "category": "geometric", "isPremium": false},
+        {"id": "f_f2", "version": "1.0.0", "filename": "f2.png", "thumbnailFilename": "f2_thumb.jpg", "category": "geometric", "isPremium": false},
+        {"id": "f_f3", "version": "1.0.0", "filename": "f3.png", "thumbnailFilename": "f3_thumb.jpg", "category": "geometric", "isPremium": false},
+        {"id": "f_f4", "version": "1.0.0", "filename": "f4.png", "thumbnailFilename": "f4_thumb.jpg", "category": "geometric", "isPremium": false},
+        {"id": "f_f5", "version": "1.0.0", "filename": "f5.png", "thumbnailFilename": "f5_thumb.jpg", "category": "geometric", "isPremium": false},
+        {"id": "f_f6", "version": "1.0.0", "filename": "f6.png", "thumbnailFilename": "f6_thumb.jpg", "category": "geometric", "isPremium": false},
+        {"id": "f_f7", "version": "1.0.0", "filename": "f7.png", "thumbnailFilename": "f7_thumb.jpg", "category": "geometric", "isPremium": false},
+        {"id": "f_f8", "version": "1.0.0", "filename": "f8.png", "thumbnailFilename": "f8_thumb.jpg", "category": "geometric", "isPremium": false},
+        {"id": "f_f9", "version": "1.0.0", "filename": "f9.png", "thumbnailFilename": "f9_thumb.jpg", "category": "decorative", "isPremium": false}
       ]
     },
     {
       "id": "frame_premium_geometric",
       "name": "Geometric Pro",
       "isPremium": true,
-      "r2Folder": "frames",
+      "r2Folder": "frames/geometric",
       "githubFolder": null,
-      "thumbnailFolder": "frames/thumbnails",
+      "thumbnailFolder": "frames/thumbnails/geometric",
       "images": [
-        {
-          "id": "frame_shadow",
-          "version": "1.0.0",
-          "filename": "shadow.png",
-          "thumbnailFilename": "shadow_thumb.jpg",
-          "category": "geometric",
-          "fit": "cover",
-          "isPremium": true,
-          "sizeKB": 55
-        },
-        {
-          "id": "frame_gradient_border",
-          "version": "1.0.0",
-          "filename": "gradient_border.png",
-          "thumbnailFilename": "gradient_border_thumb.jpg",
-          "category": "geometric",
-          "fit": "cover",
-          "isPremium": true,
-          "sizeKB": 60
-        },
-        {
-          "id": "frame_neon_glow",
-          "version": "1.0.0",
-          "filename": "neon_glow.png",
-          "thumbnailFilename": "neon_glow_thumb.jpg",
-          "category": "geometric",
-          "fit": "cover",
-          "isPremium": true,
-          "sizeKB": 72
-        }
+        {"id": "f_g1", "version": "1.0.0", "filename": "g1.png", "thumbnailFilename": "g1_thumb.jpg", "category": "geometric", "isPremium": true},
+        {"id": "f_g2", "version": "1.0.0", "filename": "g2.png", "thumbnailFilename": "g2_thumb.jpg", "category": "geometric", "isPremium": true},
+        {"id": "f_g3", "version": "1.0.0", "filename": "g3.png", "thumbnailFilename": "g3_thumb.jpg", "category": "geometric", "isPremium": true}
       ]
     },
     {
       "id": "frame_premium_decorative",
       "name": "Decorative Pro",
       "isPremium": true,
-      "r2Folder": "frames",
+      "r2Folder": "frames/decorative",
       "githubFolder": null,
-      "thumbnailFolder": "frames/thumbnails",
+      "thumbnailFolder": "frames/thumbnails/decorative",
       "images": [
-        {
-          "id": "frame_floral_vine",
-          "version": "1.0.0",
-          "filename": "floral_vine.png",
-          "thumbnailFilename": "floral_vine_thumb.jpg",
-          "category": "decorative",
-          "fit": "cover",
-          "isPremium": true,
-          "sizeKB": 120
-        },
-        {
-          "id": "frame_vintage_ornate",
-          "version": "1.0.0",
-          "filename": "vintage_ornate.png",
-          "thumbnailFilename": "vintage_ornate_thumb.jpg",
-          "category": "decorative",
-          "fit": "cover",
-          "isPremium": true,
-          "sizeKB": 135
-        },
-        {
-          "id": "frame_film_strip",
-          "version": "1.0.0",
-          "filename": "film_strip.png",
-          "thumbnailFilename": "film_strip_thumb.jpg",
-          "category": "decorative",
-          "fit": "cover",
-          "isPremium": true,
-          "sizeKB": 95
-        },
-        {
-          "id": "frame_polaroid",
-          "version": "1.0.0",
-          "filename": "polaroid.png",
-          "thumbnailFilename": "polaroid_thumb.jpg",
-          "category": "decorative",
-          "fit": "cover",
-          "isPremium": true,
-          "sizeKB": 48
-        },
-        {
-          "id": "frame_bokeh_lights",
-          "version": "1.0.0",
-          "filename": "bokeh_lights.png",
-          "thumbnailFilename": "bokeh_lights_thumb.jpg",
-          "category": "decorative",
-          "fit": "cover",
-          "isPremium": true,
-          "sizeKB": 150
-        },
-        {
-          "id": "frame_watercolor_splash",
-          "version": "1.0.0",
-          "filename": "watercolor_splash.png",
-          "thumbnailFilename": "watercolor_splash_thumb.jpg",
-          "category": "decorative",
-          "fit": "cover",
-          "isPremium": true,
-          "sizeKB": 165
-        },
-        {
-          "id": "frame_gold_foil",
-          "version": "1.0.0",
-          "filename": "gold_foil.png",
-          "thumbnailFilename": "gold_foil_thumb.jpg",
-          "category": "decorative",
-          "fit": "cover",
-          "isPremium": true,
-          "sizeKB": 140
-        }
+        {"id": "f_d1", "version": "1.0.0", "filename": "d1.png", "thumbnailFilename": "d1_thumb.jpg", "category": "decorative", "isPremium": true},
+        {"id": "f_d2", "version": "1.0.0", "filename": "d2.png", "thumbnailFilename": "d2_thumb.jpg", "category": "decorative", "isPremium": true},
+        {"id": "f_d3", "version": "1.0.0", "filename": "d3.png", "thumbnailFilename": "d3_thumb.jpg", "category": "decorative", "isPremium": true},
+        {"id": "f_d4", "version": "1.0.0", "filename": "d4.png", "thumbnailFilename": "d4_thumb.jpg", "category": "decorative", "isPremium": true},
+        {"id": "f_d5", "version": "1.0.0", "filename": "d5.png", "thumbnailFilename": "d5_thumb.jpg", "category": "decorative", "isPremium": true},
+        {"id": "f_d6", "version": "1.0.0", "filename": "d6.png", "thumbnailFilename": "d6_thumb.jpg", "category": "decorative", "isPremium": true},
+        {"id": "f_d7", "version": "1.0.0", "filename": "d7.png", "thumbnailFilename": "d7_thumb.jpg", "category": "decorative", "isPremium": true}
       ]
     }
   ]
