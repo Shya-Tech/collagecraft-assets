@@ -1,0 +1,22 @@
+{
+  "version": "2026.09.30-1",
+  "lastUpdated": "2026-09-30",
+  "templates": [
+    {
+      "id": "remote_nature_clover",
+      "minSchema": 1,
+      "photoCount": 4,
+      "category": "nature",
+      "pack": "nature",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-09-30",
+      "slots": [
+        { "left": 0.01, "top": 0.01, "width": 0.47, "height": 0.47, "shape": "leafMirrored" },
+        { "left": 0.52, "top": 0.01, "width": 0.47, "height": 0.47, "shape": "leaf" },
+        { "left": 0.01, "top": 0.52, "width": 0.47, "height": 0.47, "shape": "leaf" },
+        { "left": 0.52, "top": 0.52, "width": 0.47, "height": 0.47, "shape": "leafMirrored" }
+      ]
+    }
+  ]
+}
