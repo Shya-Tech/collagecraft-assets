@@ -1,5 +1,14 @@
 {
-  "version": "1.0.0",
-  "lastUpdated": "2026-05-01",
-  "packs": []
+  "version": "2026.09.30-1",
+  "lastUpdated": "2026-09-30",
+  "categories": {
+    "wedding": {
+      "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/wedding.json",
+      "version": "2026.09.30-1"
+    },
+    "nature": {
+      "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/nature.json",
+      "version": "2026.09.30-1"
+    }
+  }
 }
