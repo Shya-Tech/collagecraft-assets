@@ -1,14 +1,34 @@
 {
-  "version": "2026.09.30-1",
-  "lastUpdated": "2026-09-30",
+  "version": "2026.10.01-1",
+  "lastUpdated": "2026-10-01",
   "categories": {
     "wedding": {
       "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/wedding.json",
-      "version": "2026.09.30-1"
+      "version": "2026.10.01-1"
     },
     "nature": {
       "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/nature.json",
-      "version": "2026.09.30-1"
+      "version": "2026.10.01-1"
+    },
+    "wedding": {
+      "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/wedding.json",
+      "version": "2026.10.01-1"
+    },
+    "festival": {
+      "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/festival.json",
+      "version": "2026.10.01-1"
+    },
+    "travel": {
+      "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/travel.json",
+      "version": "2026.10.01-1"
+    },
+    "birthday": {
+      "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/birthday.json",
+      "version": "2026.10.01-1"
+    },
+    "nature": {
+      "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/nature.json",
+      "version": "2026.10.01-1"
     }
   }
 }
