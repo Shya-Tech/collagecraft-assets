@@ -1,13 +1,13 @@
 {
-  "version": "2026.10.01-1",
+  "version": "2026.10.01-2",
   "lastUpdated": "2026-10-01",
   "categories": {
-    "wedding": {
-      "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/wedding.json",
+    "basic": {
+      "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/basic.json",
       "version": "2026.10.01-1"
     },
-    "nature": {
-      "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/nature.json",
+    "social": {
+      "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/social.json",
       "version": "2026.10.01-1"
     },
     "wedding": {
