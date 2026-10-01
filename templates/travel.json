@@ -1,0 +1,38 @@
+{
+  "version": "2026.10.01-1",
+  "lastUpdated": "2026-10-01",
+  "templates": [
+    {
+      "id": "remote_travel_postcard",
+      "minSchema": 1,
+      "photoCount": 3,
+      "category": "travel",
+      "pack": "travel",
+      "aspectRatio": 1.5,
+      "isNew": true,
+      "addedDate": "2026-10-01",
+      "slots": [
+        { "left": 0.01, "top": 0.02, "width": 0.63, "height": 0.96, "borderRadius": 12 },
+        { "left": 0.67, "top": 0.02, "width": 0.32, "height": 0.46, "shape": "circle" },
+        { "left": 0.67, "top": 0.52, "width": 0.32, "height": 0.46, "borderRadius": 6 }
+      ]
+    },
+    {
+      "id": "remote_travel_compass",
+      "minSchema": 1,
+      "photoCount": 5,
+      "category": "travel",
+      "pack": "travel",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-01",
+      "slots": [
+        { "left": 0.31, "top": 0.31, "width": 0.38, "height": 0.38, "shape": "diamond" },
+        { "left": 0.36, "top": 0.01, "width": 0.28, "height": 0.28, "shape": "circle" },
+        { "left": 0.71, "top": 0.36, "width": 0.28, "height": 0.28, "shape": "circle" },
+        { "left": 0.36, "top": 0.71, "width": 0.28, "height": 0.28, "shape": "circle" },
+        { "left": 0.01, "top": 0.36, "width": 0.28, "height": 0.28, "shape": "circle" }
+      ]
+    }
+  ]
+}

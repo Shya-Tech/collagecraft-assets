@@ -1,0 +1,41 @@
+{
+  "version": "2026.10.01-1",
+  "lastUpdated": "2026-10-01",
+  "templates": [
+    {
+      "id": "remote_social_story_rhythm",
+      "minSchema": 1,
+      "photoCount": 6,
+      "category": "social",
+      "pack": "free",
+      "aspectRatio": 0.5625,
+      "isNew": true,
+      "addedDate": "2026-10-01",
+      "slots": [
+        { "left": 0, "top": 0, "width": 1, "height": 0.2425, "borderRadius": 12 },
+        { "left": 0, "top": 0.2525, "width": 0.495, "height": 0.2425, "borderRadius": 12 },
+        { "left": 0.505, "top": 0.2525, "width": 0.495, "height": 0.2425, "borderRadius": 12 },
+        { "left": 0, "top": 0.505, "width": 1, "height": 0.2425, "borderRadius": 12 },
+        { "left": 0, "top": 0.7575, "width": 0.495, "height": 0.2425, "borderRadius": 12 },
+        { "left": 0.505, "top": 0.7575, "width": 0.495, "height": 0.2425, "borderRadius": 12 }
+      ]
+    },
+    {
+      "id": "remote_social_cover_triptych",
+      "minSchema": 1,
+      "photoCount": 5,
+      "category": "social",
+      "pack": "free",
+      "aspectRatio": 1.91,
+      "isNew": true,
+      "addedDate": "2026-10-01",
+      "slots": [
+        { "left": 0, "top": 0, "width": 0.245, "height": 0.495 },
+        { "left": 0, "top": 0.505, "width": 0.245, "height": 0.495 },
+        { "left": 0.255, "top": 0, "width": 0.49, "height": 1 },
+        { "left": 0.755, "top": 0, "width": 0.245, "height": 0.495 },
+        { "left": 0.755, "top": 0.505, "width": 0.245, "height": 0.495 }
+      ]
+    }
+  ]
+}

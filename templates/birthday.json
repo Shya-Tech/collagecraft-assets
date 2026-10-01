@@ -1,0 +1,40 @@
+{
+  "version": "2026.10.01-1",
+  "lastUpdated": "2026-10-01",
+  "templates": [
+    {
+      "id": "remote_birthday_cake",
+      "minSchema": 1,
+      "photoCount": 4,
+      "category": "birthday",
+      "pack": "birthday",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-01",
+      "slots": [
+        { "left": 0.4, "top": 0.04, "width": 0.2, "height": 0.22, "shape": "circle" },
+        { "left": 0.3, "top": 0.29, "width": 0.4, "height": 0.2, "borderRadius": 12 },
+        { "left": 0.18, "top": 0.52, "width": 0.64, "height": 0.22, "borderRadius": 12 },
+        { "left": 0.06, "top": 0.77, "width": 0.88, "height": 0.21, "borderRadius": 12 }
+      ]
+    },
+    {
+      "id": "remote_birthday_confetti",
+      "minSchema": 1,
+      "photoCount": 6,
+      "category": "birthday",
+      "pack": "birthday",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-01",
+      "slots": [
+        { "left": 0.02, "top": 0.08, "width": 0.3, "height": 0.3, "shape": "star" },
+        { "left": 0.35, "top": 0.18, "width": 0.3, "height": 0.3, "shape": "circle" },
+        { "left": 0.68, "top": 0.08, "width": 0.3, "height": 0.3, "shape": "heart" },
+        { "left": 0.02, "top": 0.52, "width": 0.3, "height": 0.3, "shape": "heart" },
+        { "left": 0.35, "top": 0.62, "width": 0.3, "height": 0.3, "shape": "star" },
+        { "left": 0.68, "top": 0.52, "width": 0.3, "height": 0.3, "shape": "circle" }
+      ]
+    }
+  ]
+}

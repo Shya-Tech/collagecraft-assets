@@ -1,0 +1,40 @@
+{
+  "version": "2026.10.01-1",
+  "lastUpdated": "2026-10-01",
+  "templates": [
+    {
+      "id": "remote_festival_starfall",
+      "minSchema": 1,
+      "photoCount": 3,
+      "category": "festival",
+      "pack": "festival",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-01",
+      "slots": [
+        { "left": 0.02, "top": 0.02, "width": 0.52, "height": 0.52, "shape": "star" },
+        { "left": 0.56, "top": 0.3, "width": 0.42, "height": 0.42, "shape": "star" },
+        { "left": 0.1, "top": 0.6, "width": 0.36, "height": 0.36, "shape": "star" }
+      ]
+    },
+    {
+      "id": "remote_festival_argyle",
+      "minSchema": 1,
+      "photoCount": 7,
+      "category": "festival",
+      "pack": "festival",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-01",
+      "slots": [
+        { "left": 0.01, "top": 0.04, "width": 0.23, "height": 0.46, "shape": "diamond" },
+        { "left": 0.26, "top": 0.04, "width": 0.23, "height": 0.46, "shape": "diamond" },
+        { "left": 0.51, "top": 0.04, "width": 0.23, "height": 0.46, "shape": "diamond" },
+        { "left": 0.76, "top": 0.04, "width": 0.23, "height": 0.46, "shape": "diamond" },
+        { "left": 0.135, "top": 0.5, "width": 0.23, "height": 0.46, "shape": "diamond" },
+        { "left": 0.385, "top": 0.5, "width": 0.23, "height": 0.46, "shape": "diamond" },
+        { "left": 0.635, "top": 0.5, "width": 0.23, "height": 0.46, "shape": "diamond" }
+      ]
+    }
+  ]
+}

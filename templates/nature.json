@@ -1,6 +1,6 @@
 {
   "version": "2026.09.30-1",
-  "lastUpdated": "2026-09-30",
+  "lastUpdated": "2026-10-01",
   "templates": [
     {
       "id": "remote_nature_clover",
@@ -16,6 +16,23 @@
         { "left": 0.52, "top": 0.01, "width": 0.47, "height": 0.47, "shape": "leaf" },
         { "left": 0.01, "top": 0.52, "width": 0.47, "height": 0.47, "shape": "leaf" },
         { "left": 0.52, "top": 0.52, "width": 0.47, "height": 0.47, "shape": "leafMirrored" }
+      ]
+    },
+    {
+      "id": "remote_nature_fern",
+      "minSchema": 1,
+      "photoCount": 5,
+      "category": "nature",
+      "pack": "nature",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-01",
+      "slots": [
+        { "left": 0.02, "top": 0.01, "width": 0.47, "height": 0.32, "shape": "leafMirrored" },
+        { "left": 0.51, "top": 0.175, "width": 0.47, "height": 0.32, "shape": "leaf" },
+        { "left": 0.02, "top": 0.34, "width": 0.47, "height": 0.32, "shape": "leafMirrored" },
+        { "left": 0.51, "top": 0.505, "width": 0.47, "height": 0.32, "shape": "leaf" },
+        { "left": 0.02, "top": 0.67, "width": 0.47, "height": 0.32, "shape": "leafMirrored" }
       ]
     }
   ]
