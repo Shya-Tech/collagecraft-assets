@@ -1,6 +1,6 @@
 {
-  "version": "2026.10.01-2",
-  "lastUpdated": "2026-10-01",
+  "version": "2026.10.02-1",
+  "lastUpdated": "2026-10-02",
   "categories": {
     "basic": {
       "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/basic.json",
@@ -29,6 +29,10 @@
     "nature": {
       "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/nature.json",
       "version": "2026.10.01-1"
+    },
+    "mosaic": {
+      "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/mosaic.json",
+      "version": "2026.10.02-1"
     }
   }
 }
