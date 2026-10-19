@@ -10,7 +10,7 @@
       "pack": "nature",
       "aspectRatio": 1.0,
       "isNew": true,
-      "addedDate": "2026-10-15",
+      "addedDate": "2026-10-01",
       "slots": [
         { "left": 0.01, "top": 0.01, "width": 0.47, "height": 0.47, "shape": "leafMirrored" },
         { "left": 0.52, "top": 0.01, "width": 0.47, "height": 0.47, "shape": "leaf" },
