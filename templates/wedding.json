@@ -10,7 +10,7 @@
       "pack": "wedding",
       "aspectRatio": 1.0,
       "isNew": true,
-      "addedDate": "2026-10-19",
+      "addedDate": "2026-10-01",
       "slots": [
         { "left": 0.23, "top": 0.02, "width": 0.54, "height": 0.54, "shape": "heart" },
         { "left": 0.01, "top": 0.6, "width": 0.3, "height": 0.38, "shape": "arch" },
