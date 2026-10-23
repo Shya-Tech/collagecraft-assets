@@ -1,6 +1,6 @@
 {
-  "version": "2026.10.01-1",
-  "lastUpdated": "2026-10-01",
+  "version": "2026.10.21-1",
+  "lastUpdated": "2026-10-21",
   "templates": [
     {
       "id": "remote_basic_pinwheel",
@@ -36,6 +36,86 @@
         { "left": 0, "top": 0.76, "width": 0.32, "height": 0.24 },
         { "left": 0.34, "top": 0.76, "width": 0.32, "height": 0.24 },
         { "left": 0.68, "top": 0.76, "width": 0.32, "height": 0.24 }
+      ]
+    },
+    {
+      "id": "remote_basic_staggered_four",
+      "minSchema": 1,
+      "photoCount": 4,
+      "category": "basic",
+      "pack": "free",
+      "aspectRatio": 0.75,
+      "isNew": false,
+      "slots": [
+        { "left": 0, "top": 0, "width": 0.495, "height": 0.62 },
+		{ "left": 0.505, "top": 0, "width": 0.495, "height": 0.37 },
+		{ "left": 0, "top": 0.63, "width": 0.495, "height": 0.37 },
+		{ "left": 0.505, "top": 0.38, "width": 0.495, "height": 0.62 }
+      ]
+    },
+    {
+      "id": "remote_basic_corner_hero",
+      "minSchema": 1,
+      "photoCount": 5,
+      "category": "basic",
+      "pack": "free",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-21",
+      "slots": [
+        { "left": 0, "top": 0, "width": 0.64, "height": 0.64 },
+        { "left": 0.65, "top": 0, "width": 0.35, "height": 0.315 },
+        { "left": 0.65, "top": 0.325, "width": 0.35, "height": 0.315 },
+        { "left": 0, "top": 0.65, "width": 0.495, "height": 0.35 },
+        { "left": 0.505, "top": 0.65, "width": 0.495, "height": 0.35 }
+      ]
+    },
+    {
+      "id": "remote_basic_grid_nine",
+      "minSchema": 1,
+      "photoCount": 9,
+      "category": "basic",
+      "pack": "free",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-21",
+      "slots": [
+        { "left": 0, "top": 0, "width": 0.32, "height": 0.32 },
+        { "left": 0.34, "top": 0, "width": 0.32, "height": 0.32 },
+        { "left": 0.68, "top": 0, "width": 0.32, "height": 0.32 },
+        { "left": 0, "top": 0.34, "width": 0.32, "height": 0.32 },
+        { "left": 0.34, "top": 0.34, "width": 0.32, "height": 0.32 },
+        { "left": 0.68, "top": 0.34, "width": 0.32, "height": 0.32 },
+        { "left": 0, "top": 0.68, "width": 0.32, "height": 0.32 },
+        { "left": 0.34, "top": 0.68, "width": 0.32, "height": 0.32 },
+        { "left": 0.68, "top": 0.68, "width": 0.32, "height": 0.32 }
+      ]
+    },
+    {
+      "id": "remote_basic_unequal_duo",
+      "minSchema": 1,
+      "photoCount": 2,
+      "category": "basic",
+      "pack": "free",
+      "aspectRatio": 1.5,
+      "isNew": false,
+      "slots": [
+        { "left": 0, "top": 0, "width": 0.64, "height": 1 },
+        { "left": 0.65, "top": 0, "width": 0.35, "height": 1 }
+      ]
+    },
+    {
+      "id": "remote_basic_three_rows",
+      "minSchema": 1,
+      "photoCount": 3,
+      "category": "basic",
+      "pack": "free",
+      "aspectRatio": 0.75,
+      "isNew": false,
+      "slots": [
+        { "left": 0, "top": 0, "width": 1, "height": 0.4 },
+        { "left": 0, "top": 0.41, "width": 1, "height": 0.29 },
+        { "left": 0, "top": 0.71, "width": 1, "height": 0.29 }
       ]
     }
   ]

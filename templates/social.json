@@ -1,6 +1,6 @@
 {
-  "version": "2026.10.01-1",
-  "lastUpdated": "2026-10-01",
+  "version": "2026.10.21-1",
+  "lastUpdated": "2026-10-21",
   "templates": [
     {
       "id": "remote_social_story_rhythm",
@@ -35,6 +35,85 @@
         { "left": 0.255, "top": 0, "width": 0.49, "height": 1 },
         { "left": 0.755, "top": 0, "width": 0.245, "height": 0.495 },
         { "left": 0.755, "top": 0.505, "width": 0.245, "height": 0.495 }
+      ]
+    },
+    {
+      "id": "remote_social_portrait_six",
+      "minSchema": 1,
+      "photoCount": 6,
+      "category": "social",
+      "pack": "free",
+      "aspectRatio": 0.8,
+      "isNew": true,
+      "addedDate": "2026-10-21",
+      "slots": [
+        { "left": 0.02, "top": 0.016, "width": 0.47, "height": 0.312, "borderRadius": 12 },
+        { "left": 0.51, "top": 0.016, "width": 0.47, "height": 0.312, "borderRadius": 12 },
+        { "left": 0.02, "top": 0.344, "width": 0.47, "height": 0.312, "borderRadius": 12 },
+        { "left": 0.51, "top": 0.344, "width": 0.47, "height": 0.312, "borderRadius": 12 },
+        { "left": 0.02, "top": 0.672, "width": 0.47, "height": 0.312, "borderRadius": 12 },
+        { "left": 0.51, "top": 0.672, "width": 0.47, "height": 0.312, "borderRadius": 12 }
+      ]
+    },
+    {
+      "id": "remote_social_thumb_trio",
+      "minSchema": 1,
+      "photoCount": 3,
+      "category": "social",
+      "pack": "free",
+      "aspectRatio": 1.7778,
+      "isNew": true,
+      "addedDate": "2026-10-21",
+      "slots": [
+        { "left": 0.02, "top": 0.035, "width": 0.58, "height": 0.93, "borderRadius": 12 },
+        { "left": 0.62, "top": 0.035, "width": 0.36, "height": 0.4475, "borderRadius": 12 },
+        { "left": 0.62, "top": 0.5175, "width": 0.36, "height": 0.4475, "borderRadius": 12 }
+      ]
+    },
+    {
+      "id": "remote_social_header_trio",
+      "minSchema": 1,
+      "photoCount": 3,
+      "category": "social",
+      "pack": "free",
+      "aspectRatio": 3.0,
+      "isNew": false,
+      "slots": [
+        { "left": 0.28, "top": 0.06, "width": 0.44, "height": 0.88, "borderRadius": 12 },
+        { "left": 0.02, "top": 0.06, "width": 0.24, "height": 0.88, "borderRadius": 12 },
+        { "left": 0.74, "top": 0.06, "width": 0.24, "height": 0.88, "borderRadius": 12 }
+      ]
+    },
+    {
+      "id": "remote_social_arch_story",
+      "minSchema": 2,
+      "photoCount": 3,
+      "category": "social",
+      "pack": "social",
+      "aspectRatio": 0.5625,
+      "isNew": true,
+      "addedDate": "2026-10-21",
+      "slots": [
+        { "left": 0.06, "top": 0.045, "width": 0.88, "height": 0.58, "shape": "arch" },
+        { "left": 0.03, "top": 0.665, "width": 0.46, "height": 0.25875, "shape": "circle" },
+        { "left": 0.51, "top": 0.665, "width": 0.46, "height": 0.25875, "shape": "circle" }
+      ]
+    },
+    {
+      "id": "remote_social_polaroid_hex",
+      "minSchema": 2,
+      "photoCount": 5,
+      "category": "social",
+      "pack": "social",
+      "aspectRatio": 0.8,
+      "isNew": true,
+      "addedDate": "2026-10-21",
+      "slots": [
+        { "left": 0.22, "top": 0.276, "width": 0.56, "height": 0.448, "shape": "hexagon" },
+        { "left": 0.02, "top": 0.02, "width": 0.44, "height": 0.29, "shape": "tiltedRect", "tilt": -0.1 },
+        { "left": 0.54, "top": 0.02, "width": 0.44, "height": 0.29, "shape": "tiltedRect", "tilt": 0.1 },
+        { "left": 0.02, "top": 0.69, "width": 0.44, "height": 0.29, "shape": "tiltedRect", "tilt": 0.1 },
+        { "left": 0.54, "top": 0.69, "width": 0.44, "height": 0.29, "shape": "tiltedRect", "tilt": -0.1 }
       ]
     }
   ]

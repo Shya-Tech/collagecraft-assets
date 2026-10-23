@@ -1,6 +1,6 @@
 {
-  "version": "2026.10.01-1",
-  "lastUpdated": "2026-10-01",
+  "version": "2026.10.20-1",
+  "lastUpdated": "2026-10-20",
   "templates": [
     {
       "id": "remote_festival_starfall",
@@ -34,6 +34,82 @@
         { "left": 0.135, "top": 0.5, "width": 0.23, "height": 0.46, "shape": "diamond" },
         { "left": 0.385, "top": 0.5, "width": 0.23, "height": 0.46, "shape": "diamond" },
         { "left": 0.635, "top": 0.5, "width": 0.23, "height": 0.46, "shape": "diamond" }
+      ]
+    },
+    {
+      "id": "remote_festival_bunting",
+      "minSchema": 2,
+      "photoCount": 5,
+      "category": "festival",
+      "pack": "free",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-20",
+      "slots": [
+        { "left": 0.01, "top": 0.41, "width": 0.98, "height": 0.57, "borderRadius": 10 },
+        { "left": 0.01, "top": 0.02, "width": 0.23, "height": 0.37, "borderRadius": 10 },
+        { "left": 0.26, "top": 0.02, "width": 0.23, "height": 0.37, "borderRadius": 10 },
+        { "left": 0.51, "top": 0.02, "width": 0.23, "height": 0.37, "borderRadius": 10 },
+        { "left": 0.76, "top": 0.02, "width": 0.23, "height": 0.37, "borderRadius": 10 }
+      ]
+    },
+    {
+      "id": "remote_festival_stage",
+      "minSchema": 2,
+      "photoCount": 4,
+      "category": "festival",
+      "pack": "free",
+      "aspectRatio": 1.5,
+      "isNew": true,
+      "addedDate": "2026-10-20",
+      "slots": [
+        { "left": 0.01, "top": 0.02, "width": 0.62, "height": 0.96, "borderRadius": 10 },
+        { "left": 0.65, "top": 0.02, "width": 0.34, "height": 0.3, "borderRadius": 10 },
+        { "left": 0.65, "top": 0.34, "width": 0.34, "height": 0.3, "borderRadius": 10 },
+        { "left": 0.65, "top": 0.66, "width": 0.34, "height": 0.32, "borderRadius": 10 }
+      ]
+    },
+    {
+      "id": "remote_festival_hero_trio",
+      "minSchema": 2,
+      "photoCount": 3,
+      "category": "festival",
+      "pack": "free",
+      "aspectRatio": 0.75,
+      "isNew": false,
+      "slots": [
+        { "left": 0.02, "top": 0.02, "width": 0.96, "height": 0.58, "borderRadius": 12 },
+        { "left": 0.02, "top": 0.62, "width": 0.47, "height": 0.36, "borderRadius": 12 },
+        { "left": 0.51, "top": 0.62, "width": 0.47, "height": 0.36, "borderRadius": 12 }
+      ]
+    },
+    {
+      "id": "remote_festival_side_trio",
+      "minSchema": 2,
+      "photoCount": 3,
+      "category": "festival",
+      "pack": "free",
+      "aspectRatio": 1.0,
+      "isNew": false,
+      "slots": [
+        { "left": 0.02, "top": 0.02, "width": 0.56, "height": 0.96, "borderRadius": 12 },
+        { "left": 0.6, "top": 0.02, "width": 0.38, "height": 0.6, "borderRadius": 12 },
+        { "left": 0.6, "top": 0.64, "width": 0.38, "height": 0.34, "borderRadius": 12 }
+      ]
+    },
+    {
+      "id": "remote_festival_offset_four",
+      "minSchema": 2,
+      "photoCount": 4,
+      "category": "festival",
+      "pack": "free",
+      "aspectRatio": 1.0,
+      "isNew": false,
+      "slots": [
+        { "left": 0.02, "top": 0.02, "width": 0.6, "height": 0.6, "borderRadius": 12 },
+        { "left": 0.64, "top": 0.02, "width": 0.34, "height": 0.6, "borderRadius": 12 },
+        { "left": 0.02, "top": 0.64, "width": 0.34, "height": 0.34, "borderRadius": 12 },
+        { "left": 0.38, "top": 0.64, "width": 0.6, "height": 0.34, "borderRadius": 12 }
       ]
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "version": "2026.10.01-1",
-  "lastUpdated": "2026-10-01",
+  "version": "2026.10.20-1",
+  "lastUpdated": "2026-10-20",
   "templates": [
     {
       "id": "remote_travel_postcard",
@@ -32,6 +32,79 @@
         { "left": 0.71, "top": 0.36, "width": 0.28, "height": 0.28, "shape": "circle" },
         { "left": 0.36, "top": 0.71, "width": 0.28, "height": 0.28, "shape": "circle" },
         { "left": 0.01, "top": 0.36, "width": 0.28, "height": 0.28, "shape": "circle" }
+      ]
+    },
+    {
+      "id": "remote_travel_horizon_trio",
+      "minSchema": 2,
+      "photoCount": 3,
+      "category": "travel",
+      "pack": "free",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-20",
+      "slots": [
+        { "left": 0.02, "top": 0.44, "width": 0.96, "height": 0.54, "borderRadius": 8 },
+        { "left": 0.02, "top": 0.02, "width": 0.47, "height": 0.4, "borderRadius": 8 },
+        { "left": 0.51, "top": 0.02, "width": 0.47, "height": 0.4, "borderRadius": 8 }
+      ]
+    },
+    {
+      "id": "remote_travel_ticket_wide",
+      "minSchema": 2,
+      "photoCount": 3,
+      "category": "travel",
+      "pack": "free",
+      "aspectRatio": 2.0,
+      "isNew": true,
+      "addedDate": "2026-10-20",
+      "slots": [
+        { "left": 0.27, "top": 0.04, "width": 0.46, "height": 0.92, "borderRadius": 6 },
+        { "left": 0.02, "top": 0.04, "width": 0.23, "height": 0.92, "borderRadius": 6 },
+        { "left": 0.75, "top": 0.04, "width": 0.23, "height": 0.92, "borderRadius": 6 }
+      ]
+    },
+    {
+      "id": "remote_travel_film_strip",
+      "minSchema": 2,
+      "photoCount": 4,
+      "category": "travel",
+      "pack": "free",
+      "aspectRatio": 2.0,
+      "isNew": false,
+      "slots": [
+        { "left": 0.02, "top": 0.04, "width": 0.225, "height": 0.92, "borderRadius": 6 },
+        { "left": 0.265, "top": 0.04, "width": 0.225, "height": 0.92, "borderRadius": 6 },
+        { "left": 0.51, "top": 0.04, "width": 0.225, "height": 0.92, "borderRadius": 6 },
+        { "left": 0.755, "top": 0.04, "width": 0.225, "height": 0.92, "borderRadius": 6 }
+      ]
+    },
+    {
+      "id": "remote_travel_offset_pair",
+      "minSchema": 2,
+      "photoCount": 2,
+      "category": "travel",
+      "pack": "free",
+      "aspectRatio": 1.0,
+      "isNew": false,
+      "slots": [
+        { "left": 0.02, "top": 0.02, "width": 0.7, "height": 0.5, "borderRadius": 10 },
+		{ "left": 0.28, "top": 0.54, "width": 0.7, "height": 0.44, "borderRadius": 10 }
+      ]
+    },
+    {
+      "id": "remote_travel_four_frame",
+      "minSchema": 2,
+      "photoCount": 4,
+      "category": "travel",
+      "pack": "free",
+      "aspectRatio": 1.0,
+      "isNew": false,
+      "slots": [
+        { "left": 0.02, "top": 0.02, "width": 0.64, "height": 0.6, "borderRadius": 8 },
+        { "left": 0.68, "top": 0.02, "width": 0.3, "height": 0.6, "borderRadius": 8 },
+        { "left": 0.02, "top": 0.64, "width": 0.47, "height": 0.34, "borderRadius": 8 },
+        { "left": 0.51, "top": 0.64, "width": 0.47, "height": 0.34, "borderRadius": 8 }
       ]
     }
   ]
