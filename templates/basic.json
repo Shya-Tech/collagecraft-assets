@@ -1,6 +1,6 @@
 {
-  "version": "2026.10.21-1",
-  "lastUpdated": "2026-10-21",
+  "version": "2026.10.23-1",
+  "lastUpdated": "2026-10-23",
   "templates": [
     {
       "id": "remote_basic_pinwheel",
@@ -116,6 +116,46 @@
         { "left": 0, "top": 0, "width": 1, "height": 0.4 },
         { "left": 0, "top": 0.41, "width": 1, "height": 0.29 },
         { "left": 0, "top": 0.71, "width": 1, "height": 0.29 }
+      ]
+    },
+	{
+      "id": "remote_basic_tiers_eight",
+      "minSchema": 1,
+      "photoCount": 8,
+      "category": "basic",
+      "pack": "free",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-23",
+      "slots": [
+        { "left": 0, "top": 0, "width": 0.49, "height": 0.34 },
+        { "left": 0.51, "top": 0, "width": 0.49, "height": 0.34 },
+        { "left": 0, "top": 0.36, "width": 0.32, "height": 0.31 },
+        { "left": 0.34, "top": 0.36, "width": 0.32, "height": 0.31 },
+        { "left": 0.68, "top": 0.36, "width": 0.32, "height": 0.31 },
+        { "left": 0, "top": 0.69, "width": 0.32, "height": 0.31 },
+        { "left": 0.34, "top": 0.69, "width": 0.32, "height": 0.31 },
+        { "left": 0.68, "top": 0.69, "width": 0.32, "height": 0.31 }
+      ]
+    },
+    {
+      "id": "remote_basic_circle_orbit",
+      "minSchema": 2,
+      "photoCount": 8,
+      "category": "basic",
+      "pack": "basic",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-23",
+      "slots": [
+        { "left": 0.3, "top": 0.318, "width": 0.4, "height": 0.4, "shape": "circle" },
+        { "left": 0.38, "top": 0.038, "width": 0.24, "height": 0.24, "shape": "circle" },
+        { "left": 0.6615, "top": 0.1735, "width": 0.24, "height": 0.24, "shape": "circle" },
+        { "left": 0.731, "top": 0.4781, "width": 0.24, "height": 0.24, "shape": "circle" },
+        { "left": 0.5362, "top": 0.7224, "width": 0.24, "height": 0.24, "shape": "circle" },
+        { "left": 0.2238, "top": 0.7224, "width": 0.24, "height": 0.24, "shape": "circle" },
+        { "left": 0.029, "top": 0.4781, "width": 0.24, "height": 0.24, "shape": "circle" },
+        { "left": 0.0985, "top": 0.1735, "width": 0.24, "height": 0.24, "shape": "circle" }
       ]
     }
   ]
