@@ -1,10 +1,10 @@
 {
-  "version": "2026.10.21-1",
-  "lastUpdated": "2026-10-21",
+  "version": "2026.10.23-1",
+  "lastUpdated": "2026-10-23",
   "categories": {
     "basic": {
       "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/basic.json",
-      "version": "2026.10.21-1"
+      "version": "2026.10.23-1"
     },
     "social": {
       "url": "https://raw.githubusercontent.com/Shya-Tech/collagecraft-assets/main/templates/social.json",
