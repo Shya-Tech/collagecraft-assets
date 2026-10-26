@@ -1,6 +1,6 @@
 {
-  "version": "2026.10.25-1",
-  "lastUpdated": "2026-10-25",
+  "version": "2026.10.26-1",
+  "lastUpdated": "2026-10-26",
   "templates": [
     {
       "id": "remote_wedding_heart_arches",
@@ -332,6 +332,76 @@
         { "left": 0.808, "top": 0.404, "width": 0.192, "height": 0.192 },
         { "left": 0.808, "top": 0.606, "width": 0.192, "height": 0.192 },
         { "left": 0.808, "top": 0.808, "width": 0.192, "height": 0.192 }
+      ]
+    },
+    {
+      "id": "remote_wedding_arch_trio_three",
+      "minSchema": 2,
+      "photoCount": 3,
+      "category": "wedding",
+      "pack": "wedding",
+      "aspectRatio": 1.7778,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 0.2871, "height": 1.0, "shape": "arch" },
+        { "left": 0.2991, "top": 0.0, "width": 0.4019, "height": 1.0, "shape": "arch" },
+        { "left": 0.7129, "top": 0.0, "width": 0.2871, "height": 1.0, "shape": "arch" }
+      ]
+    },
+    {
+      "id": "remote_wedding_hero_pair_five",
+      "minSchema": 2,
+      "photoCount": 5,
+      "category": "wedding",
+      "pack": "free",
+      "aspectRatio": 0.75,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 1.0, "height": 0.491, "borderRadius": 16 },
+        { "left": 0.0, "top": 0.5, "width": 0.494, "height": 0.2455, "borderRadius": 16 },
+        { "left": 0.506, "top": 0.5, "width": 0.494, "height": 0.2455, "borderRadius": 16 },
+        { "left": 0.0, "top": 0.7545, "width": 0.494, "height": 0.2455, "borderRadius": 16 },
+        { "left": 0.506, "top": 0.7545, "width": 0.494, "height": 0.2455, "borderRadius": 16 }
+      ]
+    },
+    {
+      "id": "remote_wedding_heart_hero_six",
+      "minSchema": 2,
+      "photoCount": 6,
+      "category": "wedding",
+      "pack": "wedding",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 0.6587, "height": 0.6587, "shape": "heart" },
+        { "left": 0.6707, "top": 0.0, "width": 0.3293, "height": 0.3233, "shape": "heart" },
+        { "left": 0.6707, "top": 0.3353, "width": 0.3293, "height": 0.3233, "shape": "heart" },
+        { "left": 0.0, "top": 0.6707, "width": 0.3253, "height": 0.3293, "shape": "heart" },
+        { "left": 0.3373, "top": 0.6707, "width": 0.3253, "height": 0.3293, "shape": "heart" },
+        { "left": 0.6747, "top": 0.6707, "width": 0.3253, "height": 0.3293, "shape": "heart" }
+      ]
+    },
+    {
+      "id": "remote_wedding_gallery_columns_eight",
+      "minSchema": 2,
+      "photoCount": 8,
+      "category": "wedding",
+      "pack": "free",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 0.2789, "height": 0.3253, "borderRadius": 12 },
+        { "left": 0.0, "top": 0.3373, "width": 0.2789, "height": 0.3253, "borderRadius": 12 },
+        { "left": 0.0, "top": 0.6747, "width": 0.2789, "height": 0.3253, "borderRadius": 12 },
+        { "left": 0.2909, "top": 0.0, "width": 0.4183, "height": 0.6587, "borderRadius": 12 },
+        { "left": 0.2909, "top": 0.6707, "width": 0.2031, "height": 0.3293, "borderRadius": 12 },
+        { "left": 0.506, "top": 0.6707, "width": 0.2031, "height": 0.3293, "borderRadius": 12 },
+        { "left": 0.7211, "top": 0.0, "width": 0.2789, "height": 0.494, "borderRadius": 12 },
+        { "left": 0.7211, "top": 0.506, "width": 0.2789, "height": 0.494, "borderRadius": 12 }
       ]
     }
   ]

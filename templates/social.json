@@ -1,6 +1,6 @@
 {
-  "version": "2026.10.25-1",
-  "lastUpdated": "2026-10-25",
+  "version": "2026.10.26-1",
+  "lastUpdated": "2026-10-26",
   "templates": [
     {
       "id": "remote_social_story_rhythm",
@@ -313,6 +313,80 @@
         { "left": 0.408, "top": 0.816, "width": 0.184, "height": 0.184, "shape": "hexagon" },
         { "left": 0.612, "top": 0.816, "width": 0.184, "height": 0.184, "shape": "hexagon" },
         { "left": 0.816, "top": 0.816, "width": 0.184, "height": 0.184, "shape": "hexagon" }
+      ]
+    },
+    {
+      "id": "remote_social_reel_cover_three",
+      "minSchema": 2,
+      "photoCount": 3,
+      "category": "social",
+      "pack": "free",
+      "aspectRatio": 0.5625,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 1.0, "height": 0.6622 },
+        { "left": 0.0, "top": 0.6689, "width": 0.494, "height": 0.3311 },
+        { "left": 0.506, "top": 0.6689, "width": 0.494, "height": 0.3311 }
+      ]
+    },
+    {
+      "id": "remote_social_carousel_post_five",
+      "minSchema": 2,
+      "photoCount": 5,
+      "category": "social",
+      "pack": "free",
+      "aspectRatio": 0.8,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 0.494, "height": 0.2802 },
+        { "left": 0.506, "top": 0.0, "width": 0.494, "height": 0.2802 },
+        { "left": 0.0, "top": 0.2898, "width": 1.0, "height": 0.4203 },
+        { "left": 0.0, "top": 0.7198, "width": 0.494, "height": 0.2802 },
+        { "left": 0.506, "top": 0.7198, "width": 0.494, "height": 0.2802 }
+      ]
+    },
+    {
+      "id": "remote_social_profile_mix_eight",
+      "minSchema": 2,
+      "photoCount": 8,
+      "category": "social",
+      "pack": "free",
+      "aspectRatio": 0.8,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 0.241, "height": 0.3269, "borderRadius": 12 },
+        { "left": 0.253, "top": 0.0, "width": 0.241, "height": 0.3269, "borderRadius": 12 },
+        { "left": 0.506, "top": 0.0, "width": 0.241, "height": 0.3269, "borderRadius": 12 },
+        { "left": 0.759, "top": 0.0, "width": 0.241, "height": 0.3269, "borderRadius": 12 },
+        { "left": 0.0, "top": 0.3365, "width": 0.244, "height": 0.3269, "borderRadius": 12 },
+        { "left": 0.256, "top": 0.3365, "width": 0.488, "height": 0.3269, "borderRadius": 12 },
+        { "left": 0.756, "top": 0.3365, "width": 0.244, "height": 0.3269, "borderRadius": 12 },
+        { "left": 0.0, "top": 0.6731, "width": 1.0, "height": 0.3269, "borderRadius": 12 }
+      ]
+    },
+    {
+      "id": "remote_social_feed_rows_ten",
+      "minSchema": 3,
+      "photoCount": 10,
+      "category": "social",
+      "pack": "free",
+      "aspectRatio": 0.8,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 0.494, "height": 0.2428 },
+        { "left": 0.506, "top": 0.0, "width": 0.494, "height": 0.2428 },
+        { "left": 0.0, "top": 0.2524, "width": 0.3253, "height": 0.2428 },
+        { "left": 0.3373, "top": 0.2524, "width": 0.3253, "height": 0.2428 },
+        { "left": 0.6747, "top": 0.2524, "width": 0.3253, "height": 0.2428 },
+        { "left": 0.0, "top": 0.5048, "width": 0.494, "height": 0.2428 },
+        { "left": 0.506, "top": 0.5048, "width": 0.494, "height": 0.2428 },
+        { "left": 0.0, "top": 0.7572, "width": 0.3253, "height": 0.2428 },
+        { "left": 0.3373, "top": 0.7572, "width": 0.3253, "height": 0.2428 },
+        { "left": 0.6747, "top": 0.7572, "width": 0.3253, "height": 0.2428 }
       ]
     }
   ]

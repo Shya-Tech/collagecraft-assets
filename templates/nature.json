@@ -1,6 +1,6 @@
 {
-  "version": "2026.10.25-1",
-  "lastUpdated": "2026-10-25",
+  "version": "2026.10.26-1",
+  "lastUpdated": "2026-10-26",
   "templates": [
     {
       "id": "remote_nature_clover",
@@ -369,6 +369,78 @@
         { "left": 0.808, "top": 0.3691, "width": 0.192, "height": 0.2618, "borderRadius": 10 },
         { "left": 0.808, "top": 0.6409, "width": 0.192, "height": 0.1745, "borderRadius": 10 },
         { "left": 0.808, "top": 0.8255, "width": 0.192, "height": 0.1745, "borderRadius": 10 }
+      ]
+    },
+    {
+      "id": "remote_nature_leaf_pillars_three",
+      "minSchema": 2,
+      "photoCount": 3,
+      "category": "nature",
+      "pack": "nature",
+      "aspectRatio": 1.5,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 0.2711, "height": 1.0, "shape": "leaf" },
+        { "left": 0.2831, "top": 0.0, "width": 0.4338, "height": 1.0, "shape": "leafMirrored" },
+        { "left": 0.7289, "top": 0.0, "width": 0.2711, "height": 1.0, "shape": "leaf" }
+      ]
+    },
+    {
+      "id": "remote_nature_leaf_rows_seven",
+      "minSchema": 2,
+      "photoCount": 7,
+      "category": "nature",
+      "pack": "nature",
+      "aspectRatio": 1.7291,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 0.3253, "height": 0.5625, "shape": "leaf" },
+        { "left": 0.3373, "top": 0.0, "width": 0.3253, "height": 0.5625, "shape": "leafMirrored" },
+        { "left": 0.6747, "top": 0.0, "width": 0.3253, "height": 0.5625, "shape": "leaf" },
+        { "left": 0.0, "top": 0.5833, "width": 0.241, "height": 0.4167, "shape": "leafMirrored" },
+        { "left": 0.253, "top": 0.5833, "width": 0.241, "height": 0.4167, "shape": "leaf" },
+        { "left": 0.506, "top": 0.5833, "width": 0.241, "height": 0.4167, "shape": "leafMirrored" },
+        { "left": 0.759, "top": 0.5833, "width": 0.241, "height": 0.4167, "shape": "leaf" }
+      ]
+    },
+    {
+      "id": "remote_nature_garden_steps_nine",
+      "minSchema": 2,
+      "photoCount": 9,
+      "category": "nature",
+      "pack": "free",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 0.4338, "height": 0.3253, "borderRadius": 12 },
+        { "left": 0.4458, "top": 0.0, "width": 0.2711, "height": 0.3253, "borderRadius": 12 },
+        { "left": 0.7289, "top": 0.0, "width": 0.2711, "height": 0.3253, "borderRadius": 12 },
+        { "left": 0.0, "top": 0.3373, "width": 0.2711, "height": 0.3253, "borderRadius": 12 },
+        { "left": 0.2831, "top": 0.3373, "width": 0.4338, "height": 0.3253, "borderRadius": 12 },
+        { "left": 0.7289, "top": 0.3373, "width": 0.2711, "height": 0.3253, "borderRadius": 12 },
+        { "left": 0.0, "top": 0.6747, "width": 0.2711, "height": 0.3253, "borderRadius": 12 },
+        { "left": 0.2831, "top": 0.6747, "width": 0.2711, "height": 0.3253, "borderRadius": 12 },
+        { "left": 0.5662, "top": 0.6747, "width": 0.4338, "height": 0.3253, "borderRadius": 12 }
+      ]
+    },
+    {
+      "id": "remote_nature_triptych_fern_five",
+      "minSchema": 2,
+      "photoCount": 5,
+      "category": "nature",
+      "pack": "nature",
+      "aspectRatio": 1.5,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 0.2871, "height": 0.491, "shape": "leaf" },
+        { "left": 0.0, "top": 0.509, "width": 0.2871, "height": 0.491, "shape": "leafMirrored" },
+        { "left": 0.2991, "top": 0.0, "width": 0.4019, "height": 1.0, "shape": "leaf" },
+        { "left": 0.7129, "top": 0.0, "width": 0.2871, "height": 0.491, "shape": "leafMirrored" },
+        { "left": 0.7129, "top": 0.509, "width": 0.2871, "height": 0.491, "shape": "leaf" }
       ]
     }
   ]

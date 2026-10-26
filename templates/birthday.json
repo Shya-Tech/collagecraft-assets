@@ -1,6 +1,6 @@
 {
-  "version": "2026.10.25-1",
-  "lastUpdated": "2026-10-25",
+  "version": "2026.10.26-1",
+  "lastUpdated": "2026-10-26",
   "templates": [
     {
       "id": "remote_birthday_cake",
@@ -310,6 +310,82 @@
         { "left": 0.411, "top": 0.822, "width": 0.178, "height": 0.178, "shape": "circle" },
         { "left": 0.609, "top": 0.822, "width": 0.178, "height": 0.178, "shape": "circle" },
         { "left": 0.807, "top": 0.822, "width": 0.178, "height": 0.178, "shape": "circle" }
+      ]
+    },
+    {
+      "id": "remote_birthday_tier_rows_four",
+      "minSchema": 2,
+      "photoCount": 4,
+      "category": "birthday",
+      "pack": "free",
+      "aspectRatio": 0.75,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 1.0, "height": 0.2806, "borderRadius": 14 },
+        { "left": 0.0, "top": 0.2896, "width": 0.494, "height": 0.4209, "borderRadius": 14 },
+        { "left": 0.506, "top": 0.2896, "width": 0.494, "height": 0.4209, "borderRadius": 14 },
+        { "left": 0.0, "top": 0.7194, "width": 1.0, "height": 0.2806, "borderRadius": 14 }
+      ]
+    },
+    {
+      "id": "remote_birthday_sandwich_rows_five",
+      "minSchema": 2,
+      "photoCount": 5,
+      "category": "birthday",
+      "pack": "free",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 1.0, "height": 0.3253, "borderRadius": 14 },
+        { "left": 0.0, "top": 0.3373, "width": 0.3253, "height": 0.3253, "borderRadius": 14 },
+        { "left": 0.3373, "top": 0.3373, "width": 0.3253, "height": 0.3253, "borderRadius": 14 },
+        { "left": 0.6747, "top": 0.3373, "width": 0.3253, "height": 0.3253, "borderRadius": 14 },
+        { "left": 0.0, "top": 0.6747, "width": 1.0, "height": 0.3253, "borderRadius": 14 }
+      ]
+    },
+    {
+      "id": "remote_birthday_party_columns_nine",
+      "minSchema": 2,
+      "photoCount": 9,
+      "category": "birthday",
+      "pack": "birthday",
+      "aspectRatio": 0.75,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 0.3253, "height": 0.3273, "borderRadius": 16 },
+        { "left": 0.0, "top": 0.3363, "width": 0.3253, "height": 0.3273, "borderRadius": 16 },
+        { "left": 0.0, "top": 0.6727, "width": 0.3253, "height": 0.3273, "borderRadius": 16 },
+        { "left": 0.3373, "top": 0.0, "width": 0.3253, "height": 0.4955, "borderRadius": 16 },
+        { "left": 0.3373, "top": 0.5045, "width": 0.3253, "height": 0.4955, "borderRadius": 16 },
+        { "left": 0.6747, "top": 0.0, "width": 0.3253, "height": 0.2433, "borderRadius": 16 },
+        { "left": 0.6747, "top": 0.2523, "width": 0.3253, "height": 0.2433, "borderRadius": 16 },
+        { "left": 0.6747, "top": 0.5045, "width": 0.3253, "height": 0.2433, "borderRadius": 16 },
+        { "left": 0.6747, "top": 0.7568, "width": 0.3253, "height": 0.2432, "borderRadius": 16 }
+      ]
+    },
+    {
+      "id": "remote_birthday_gift_ribbon_ten",
+      "minSchema": 3,
+      "photoCount": 10,
+      "category": "birthday",
+      "pack": "free",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 0.6587, "height": 0.5422, "borderRadius": 14 },
+        { "left": 0.6707, "top": 0.0, "width": 0.3293, "height": 0.2651, "borderRadius": 14 },
+        { "left": 0.6707, "top": 0.2771, "width": 0.3293, "height": 0.2651, "borderRadius": 14 },
+        { "left": 0.0, "top": 0.5542, "width": 0.241, "height": 0.2169, "borderRadius": 14 },
+        { "left": 0.253, "top": 0.5542, "width": 0.241, "height": 0.2169, "borderRadius": 14 },
+        { "left": 0.506, "top": 0.5542, "width": 0.241, "height": 0.2169, "borderRadius": 14 },
+        { "left": 0.759, "top": 0.5542, "width": 0.241, "height": 0.2169, "borderRadius": 14 },
+        { "left": 0.0, "top": 0.7831, "width": 0.3253, "height": 0.2169, "borderRadius": 14 },
+        { "left": 0.3373, "top": 0.7831, "width": 0.3253, "height": 0.2169, "borderRadius": 14 },
+        { "left": 0.6747, "top": 0.7831, "width": 0.3253, "height": 0.2169, "borderRadius": 14 }
       ]
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "version": "2026.10.25-1",
-  "lastUpdated": "2026-10-25",
+  "version": "2026.10.26-1",
+  "lastUpdated": "2026-10-26",
   "templates": [
     {
       "id": "remote_mosaic_diagonal_triad",
@@ -334,6 +334,82 @@
         { "left": 0.39, "top": 0.8084, "width": 0.2400000000000001, "height": 0.1916, "shape": "polygon", "points": [[0.12499999999999983, 0.0], [1.0, 0.02192066805845502], [0.8749999999999999, 1.0], [0.0, 1.0]] },
         { "left": 0.6000000000000001, "top": 0.8126, "width": 0.22999999999999987, "height": 0.1874, "shape": "polygon", "points": [[0.13043478260869584, 0.0], [1.0, 0.02134471718249735], [0.8695652173913047, 1.0], [0.0, 1.0]] },
         { "left": 0.8, "top": 0.8166, "width": 0.19999999999999996, "height": 0.1834, "shape": "polygon", "points": [[0.1499999999999996, 0.0], [1.0, 0.01853871319520152], [1.0, 1.0], [0.0, 1.0]] }
+      ]
+    },
+    {
+      "id": "remote_mosaic_pinwheel_four",
+      "minSchema": 2,
+      "photoCount": 4,
+      "category": "mosaic",
+      "pack": "mosaic",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.5, "top": 0.0, "width": 0.5, "height": 0.62, "shape": "polygon", "points": [[0.0, 0.8065], [0.24, 0.0], [1.0, 0.0], [1.0, 1.0]] },
+        { "left": 0.38, "top": 0.5, "width": 0.62, "height": 0.5, "shape": "polygon", "points": [[0.1935, 0.0], [1.0, 0.24], [1.0, 1.0], [0.0, 1.0]] },
+        { "left": 0.0, "top": 0.38, "width": 0.5, "height": 0.62, "shape": "polygon", "points": [[1.0, 0.1935], [0.76, 1.0], [0.0, 1.0], [0.0, 0.0]] },
+        { "left": 0.0, "top": 0.0, "width": 0.62, "height": 0.5, "shape": "polygon", "points": [[0.8065, 1.0], [0.0, 0.76], [0.0, 0.0], [1.0, 0.0]] }
+      ]
+    },
+    {
+      "id": "remote_mosaic_zigzag_split_six",
+      "minSchema": 2,
+      "photoCount": 6,
+      "category": "mosaic",
+      "pack": "mosaic",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 0.36, "height": 0.53, "shape": "polygon", "points": [[0.0, 0.0], [0.8333, 0.0], [1.0, 1.0], [0.0, 0.8679]] },
+        { "left": 0.3, "top": 0.0, "width": 0.38, "height": 0.53, "shape": "polygon", "points": [[0.0, 0.0], [1.0, 0.0], [0.9474, 0.8113], [0.1579, 1.0]] },
+        { "left": 0.66, "top": 0.0, "width": 0.34, "height": 0.5, "shape": "polygon", "points": [[0.0588, 0.0], [1.0, 0.0], [1.0, 1.0], [0.0, 0.86]] },
+        { "left": 0.0, "top": 0.46, "width": 0.36, "height": 0.54, "shape": "polygon", "points": [[0.0, 0.0], [1.0, 0.1296], [0.9444, 1.0], [0.0, 1.0]] },
+        { "left": 0.34, "top": 0.43, "width": 0.38, "height": 0.57, "shape": "polygon", "points": [[0.0526, 0.1754], [0.8421, 0.0], [1.0, 1.0], [0.0, 1.0]] },
+        { "left": 0.66, "top": 0.43, "width": 0.34, "height": 0.57, "shape": "polygon", "points": [[0.0, 0.0], [1.0, 0.1228], [1.0, 1.0], [0.1765, 1.0]] }
+      ]
+    },
+    {
+      "id": "remote_mosaic_chevron_bands_eight",
+      "minSchema": 2,
+      "photoCount": 8,
+      "category": "mosaic",
+      "pack": "mosaic",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 0.5, "height": 0.24, "shape": "polygon", "points": [[0.0, 0.0], [1.0, 0.0], [1.0, 0.7083], [0.0, 1.0]] },
+        { "left": 0.5, "top": 0.0, "width": 0.5, "height": 0.24, "shape": "polygon", "points": [[0.0, 0.0], [1.0, 0.0], [1.0, 1.0], [0.0, 0.7083]] },
+        { "left": 0.0, "top": 0.17, "width": 0.5, "height": 0.33, "shape": "polygon", "points": [[0.0, 0.2121], [1.0, 0.0], [1.0, 0.7879], [0.0, 1.0]] },
+        { "left": 0.5, "top": 0.17, "width": 0.5, "height": 0.33, "shape": "polygon", "points": [[0.0, 0.0], [1.0, 0.2121], [1.0, 1.0], [0.0, 0.7879]] },
+        { "left": 0.0, "top": 0.43, "width": 0.5, "height": 0.31, "shape": "polygon", "points": [[0.0, 0.2258], [1.0, 0.0], [1.0, 0.7742], [0.0, 1.0]] },
+        { "left": 0.5, "top": 0.43, "width": 0.5, "height": 0.31, "shape": "polygon", "points": [[0.0, 0.0], [1.0, 0.2258], [1.0, 1.0], [0.0, 0.7742]] },
+        { "left": 0.0, "top": 0.67, "width": 0.5, "height": 0.33, "shape": "polygon", "points": [[0.0, 0.2121], [1.0, 0.0], [1.0, 1.0], [0.0, 1.0]] },
+        { "left": 0.5, "top": 0.67, "width": 0.5, "height": 0.33, "shape": "polygon", "points": [[0.0, 0.0], [1.0, 0.2121], [1.0, 1.0], [0.0, 1.0]] }
+      ]
+    },
+    {
+      "id": "remote_mosaic_shard_mesh_ten",
+      "minSchema": 3,
+      "photoCount": 10,
+      "category": "mosaic",
+      "pack": "mosaic",
+      "aspectRatio": 1.0,
+      "isNew": true,
+      "addedDate": "2026-10-26",
+      "slots": [
+        { "left": 0.0, "top": 0.0, "width": 0.34, "height": 0.33, "shape": "polygon", "points": [[0.0, 0.0], [1.0, 0.0], [0.8824, 0.8485], [0.0, 1.0]] },
+        { "left": 0.3, "top": 0.0, "width": 0.41, "height": 0.36, "shape": "polygon", "points": [[0.0976, 0.0], [0.9268, 0.0], [1.0, 1.0], [0.0, 0.7778]] },
+        { "left": 0.68, "top": 0.0, "width": 0.32, "height": 0.36, "shape": "polygon", "points": [[0.0, 0.0], [1.0, 0.0], [1.0, 0.8611], [0.0938, 1.0]] },
+        { "left": 0.0, "top": 0.28, "width": 0.37, "height": 0.42, "shape": "polygon", "points": [[0.0, 0.119], [0.8108, 0.0], [1.0, 1.0], [0.0, 0.9048]] },
+        { "left": 0.3, "top": 0.28, "width": 0.41, "height": 0.34, "shape": "polygon", "points": [[0.0, 0.0], [1.0, 0.2353], [0.8293, 1.0]] },
+        { "left": 0.3, "top": 0.28, "width": 0.34, "height": 0.42, "shape": "polygon", "points": [[0.0, 0.0], [1.0, 0.8095], [0.2059, 1.0]] },
+        { "left": 0.64, "top": 0.31, "width": 0.36, "height": 0.38, "shape": "polygon", "points": [[0.1944, 0.1316], [1.0, 0.0], [1.0, 1.0], [0.0, 0.8158]] },
+        { "left": 0.0, "top": 0.66, "width": 0.37, "height": 0.34, "shape": "polygon", "points": [[0.0, 0.0], [1.0, 0.1176], [0.8919, 1.0], [0.0, 1.0]] },
+        { "left": 0.33, "top": 0.62, "width": 0.34, "height": 0.38, "shape": "polygon", "points": [[0.1176, 0.2105], [0.9118, 0.0], [1.0, 1.0], [0.0, 1.0]] },
+        { "left": 0.64, "top": 0.62, "width": 0.36, "height": 0.38, "shape": "polygon", "points": [[0.0, 0.0], [1.0, 0.1842], [1.0, 1.0], [0.0833, 1.0]] }
       ]
     }
   ]
